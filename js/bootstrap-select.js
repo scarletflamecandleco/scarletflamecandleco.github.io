@@ -575,7 +575,7 @@
                  * @returns {string}
                  */
                 var generateSpan = function(text, classes, inline, tokens) {
-                    // support bootstrap v4: http://v4-alpha.getbootstrap.com/components/dropdowns/#single-button-dropdowns
+                    // support bootstrap v4: https://v4-alpha.getbootstrap.com/components/dropdowns/#single-button-dropdowns
                     classes = 'dropdown-item-inner ' + (classes || '');
                     return '<span' +
                         (typeof classes !== 'undefined' ? ' class="' + classes + '"' : '') +
