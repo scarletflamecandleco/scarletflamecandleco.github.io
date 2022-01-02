@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+
+    <title>Scarlet Flame Candle Company</title>
+	<link rel="icon" type="image/png" href="assets/images/headerLogo.png">
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<!--
+
+TemplateMo 546 Sixteen Clothing
+
+https://templatemo.com/tm-546-sixteen-clothing
+
+-->
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/templatemo-sixteen.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+
+  </head>
+
+  <body>
+
+    <!-- ***** Preloader Start ***** -->
+    <div id="preloader">
+        <div class="jumper">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>  
+    <!-- ***** Preloader End ***** -->
+
+    <!-- Header -->
+    <header class="">
+      <nav class="navbar navbar-expand-lg">
+        <div class="container">
+          <a class="navbar-brand" href="index.html"><h2><em>Scarlet Flame</em>Candle Company</h2></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="index.html">Home
+                  <span class="sr-only">(current)</span>
+                </a>
+              </li> 
+			  <li class="nav-item">
+                <a class="nav-link" href="about.html">About</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="products.html">Shop</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact</a>
+              </li>
+			  <li>
+				<!-- PUT CART BUTTON HERE -->
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Page Content -->
+    <div class="page-heading products-heading header-text">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="text-content">
+              <h4>Signature</h4>
+              <h2>Candles</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+    <div class="products">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="filters">
+              <ul>
+                  <h1>All Products</h1>
+                  <li data-filter=".des"></li>
+                  <li data-filter=".dev"></li>
+                  <li data-filter=".gra"></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <div class="filters-content">
+                <div class="row grid">
+                    <div class="col-lg-4 col-md-4 all des">
+                      <div class="product-item">
+                        <img src="assets/images/apple_harvest.png" alt="">
+                        <div class="down-content">
+                          <h4>Apple Harvest</h4>
+                          <h6>$13.00</h6>
+                          <p>Bright fruit notes of ripe apple with a touch of spice.<br><br><b>Top Notes:</b> Nutmeg, Cinnamon, Orange<br><b>Middle:</b> Apple<br><b>Base:</b> Vanilla, Clove</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+						</div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 all dev">
+                      <div class="product-item">
+                        <img src="assets/images/black_sea.png" alt="">
+                        <div class="down-content">
+                          <h4>Black Sea</h4>
+                          <h6>$13.00</h6>
+                          <p>Oceanic notes with an undercurrent of amber and ozone.<br><br><b>Top Notes:</b> Ozone, Sea Salt, Citrus<br><b>Middle:</b> Cardamom, Plum<br><b>Base:</b> Dark Musk, Amber</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 all gra">
+                      <div class="product-item">
+                        <img src="assets/images/blood_orange.png" alt="">
+                        <div class="down-content">
+                          <h4>Blood Orange</h4>
+                          <h6>$13.00</h6>
+                          <p>Full-bodied, fresh citrus orange with hints of bergamot and grapefruit.<br><br><b>Top Notes:</b> Bergamot, Grapefruit<br><b>Middle:</b> Orange, Green Leaves<br><b>Base:</b> Cedar</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 all gra">
+                      <div class="product-item">
+                        <img src="assets/images/blueberry_cheesecake.png" alt="">
+                        <div class="down-content">
+                          <h4>Blueberry Cheesecake</h4>
+                          <h6>$13.00</h6>
+                          <p>Blended aroma of sweet graham cracker crumbs and juicy blueberries.<br><br><b>Top Notes:</b> Cinnamon<br><b>Middle:</b> Blueberry<br><b>Base:</b> Vanilla, Graham Cracker</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 all dev">
+                      <div class="product-item">
+                        <img src="assets/images/caribbean_teakwood.png" alt="">
+                        <div class="down-content">
+                          <h4>Caribbean Teakwood</h4>
+                          <h6>$13.00</h6>
+                          <p>Spicy top notes of ginger and spice infused with sandalwood and amber.<br><br><b>Top Notes:</b> Allspice, Leather<br><b>Middle:</b> Teakwood, Clove<br><b>Base:</b> Amber, Sandalwood</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 all des">
+                      <div class="product-item">
+                        <img src="assets/images/citronella.png" alt="">
+                        <div class="down-content">
+                          <h4>Citronella</h4>
+                          <h6>$13.00</h6>
+                          <p>Refreshing scent to help keep pesky mosquitoes at bay.<br><br><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Camphor, Lemongrass<br><b>Base:</b> Powder</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-lg-4 col-md-4 all des">
+                      <div class="product-item">
+                        <img src="assets/images/french_lilac.png" alt="">
+                        <div class="down-content">
+                          <h4>French Lilac</h4>
+                          <h6>$13.00</h6>
+                          <p>Experience the calming aroma of a field of lilacs in full bloom.<br><br><b>Top Notes:</b> Green Leaves<br><b>Middle:</b> Lilac, Honeysuckle<br><b>Base:</b> Amyris, Powder</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-lg-4 col-md-4 all des">
+                      <div class="product-item">
+                        <img src="assets/images/high_tide.png" alt="">
+                        <div class="down-content">
+                          <h4>High Tide</h4>
+                          <h6>$13.00</h6>
+                          <p>Wrap the water, sand, and salt together in one clean, aromatic scent.<br><br><b>Top Notes:</b> Citrus, Ozone<br><b>Middle:</b> Jasmine, Sea Salt<br><b>Base:</b> Cedar, Powder, Light Musk</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-lg-4 col-md-4 all des">
+                      <div class="product-item">
+                        <img src="assets/images/lemon_pound_cake.png" alt="">
+                        <div class="down-content">
+                          <h4>Lemon Pound Cake</h4>
+                          <h6>$13.00</h6>
+                          <p>Juicy lemon combined with a freshly baked gourmet cake.<br><br><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Butter<br><b>Base:</b> Sugar, Vanilla, Cake</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-lg-4 col-md-4 all des">
+                      <div class="product-item">
+                        <img src="assets/images/library.png" alt="">
+                        <div class="down-content">
+                          <h4>Library</h4>
+                          <h6>$13.00</h6>
+                          <p>Dusty pages from leather-bound novels sitting on mahogany shelves.<br><br><b>Top Notes:</b> Teakwood<br><b>Middle:</b> Leather, Cedar<br><b>Base:</b> Dark Musk, Sandalwood, Patchouli</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-lg-4 col-md-4 all des">
+                      <div class="product-item">
+                        <img src="assets/images/mahogany_shea.png" alt="">
+                        <div class="down-content">
+                          <h4>Mahogany Shea</h4>
+                          <h6>$13.00</h6>
+                          <p>Calming notes of earthy woods combined with creamy shea.<br><br><b>Top Notes:</b> Almond<br><b>Middle:</b> Amber, Shea, Coconut<br><b>Base:</b> Sandalwood, Light Musk, Tonka</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-lg-4 col-md-4 all des">
+                      <div class="product-item">
+                        <img src="assets/images/mango.png" alt="">
+                        <div class="down-content">
+                          <h4>Mango & Coconut Milk</h4>
+                          <h6>$13.00</h6>
+                          <p>Tropical fusion of fresh mango and creamy coconut milk.<br><br><b>Top Notes:</b> Orange, Pineapple<br><b>Middle:</b> Peach, Mango<br><b>Base:</b> Coconut Milk</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-lg-4 col-md-4 all des">
+                      <div class="product-item">
+                        <img src="assets/images/plumeria.png" alt="">
+                        <div class="down-content">
+                          <h4>Plumeria</h4>
+                          <h6>$13.00</h6>
+                          <p>Blended bouquet of jasmine, gardenia, guava, and plumeria.<br><br><b>Top Notes:</b> Guava, Green Leaves<br><b>Middle:</b> Plumeria, Jasmine, Gardenia<br><b>Base:</b> Powder</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-lg-4 col-md-4 all des">
+                      <div class="product-item">
+                        <img src="assets/images/sea_salt.png" alt="">
+                        <div class="down-content">
+                          <h4>Sea Salt & Orchid</h4>
+                          <h6>$13.00</h6>
+                          <p>Crisply fresh with salty highlights and soft floral notes.<br><br><b>Top Notes:</b> Ozone, Sea Salt<br><b>Middle:</b> Jasmine, Green Leaves, Lilies<br><b>Base:</b> Tonka Bean, Wood</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-lg-4 col-md-4 all des">
+                      <div class="product-item">
+                        <img src="assets/images/smoked_oud.png" alt="">
+                        <div class="down-content">
+                          <h4>Smoked Oud</h4>
+                          <h6>$13.00</h6>
+                          <p>Complex blend of incense, smoke, oud, amber, and musk.<br><br><b>Top Notes:</b> Incense<br><b>Middle:</b> Smoke<br><b>Base:</b> Oud, Leather, Musk, Amber</p>
+						  <!-- PUT ADD TO CART BUTTON HERE -->
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="inner-content">
+              <p>Copyright &copy; 2022 Scarlet Flame Candle Company, LLC - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+    <!-- Additional Scripts -->
+    <script src="assets/js/custom.js"></script>
+    <script src="assets/js/owl.js"></script>
+    <script src="assets/js/slick.js"></script>
+    <script src="assets/js/isotope.js"></script>
+    <script src="assets/js/accordions.js"></script>
+
+
+    <script language = "text/Javascript"> 
+      cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
+      function clearField(t){                   //declaring the array outside of the
+      if(! cleared[t.id]){                      // function makes it static and global
+          cleared[t.id] = 1;  // you could use true and false, but that's more typing
+          t.value='';         // with more chance of typos
+          t.style.color='#fff';
+          }
+      }
+    </script>
+
+
+  </body>
+
+</html>
