@@ -59,10 +59,10 @@ https://templatemo.com/tm-546-sixteen-clothing
 			  <li class="nav-item">
                 <a class="nav-link" href="about.html">About</a>
               </li>
-              <li class="nav-item active">
+              <li class="nav-item">
                 <a class="nav-link" href="products.html">Shop</a>
               </li>
-              <li class="nav-item">
+              <li class="nav-item active">
                 <a class="nav-link" href="contact.html">Contact</a>
               </li>
 			  <!-- PUT CART BUTTON HERE -->
@@ -87,23 +87,32 @@ https://templatemo.com/tm-546-sixteen-clothing
     </div>
 
 
-    
-    <div class="send-message">
+<div class="best-features about-features">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
               <h2>Contact</h2>
             </div>
-			<div>
-			<p><h5>We appreciate you visiting our humble webpage. If you would like to contact us, you can send an email to <a href="mailto:scarletflamecandleco@gmail.com">scarletflamecandleco@gmail.com.</a></h5></p>
-			<br><br>
-			<p><h5>We also ask that you visit our Instagram page at <a href="https://www.instagram.com/scarletflamecandleco/">Scarlet Flame Candle Company</a> and give us a follow!</h5></p>
-			</div>
           </div>
-		</div>
-	  </div>
-	</div>
+		  <div class="col-md-6">
+            <div class="right-image">
+              <img src="assets/images/email.jpg" alt="">
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="left-content">
+              <h4>Send Email</h4>
+              <p>We appreciate you visiting our humble webpage. If you would like to contact us, you can send an email to <a href="mailto:scarletflamecandleco@gmail.com">scarletflamecandleco@gmail.com.</a></p>
+			  <h4>Visit Instagram</h4>
+			  <p>We also ask that you visit our Instagram page at <a href="https://www.instagram.com/scarletflamecandleco/">Scarlet Flame Candle Company</a> and give us a follow!</p>
+			  <h4>Returns & Refunds Policy</h4>
+			  <p>At this time returns are not accepted.<br>alkdjflaj</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 	
 
 
