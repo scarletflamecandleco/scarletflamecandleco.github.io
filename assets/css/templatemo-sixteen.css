@@ -337,7 +337,7 @@ header .navbar {
 	background-image: url(../images/slide_03.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: top center;
 }
 
 .banner .banner-item {
