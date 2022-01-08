@@ -108,7 +108,7 @@ https://templatemo.com/tm-546-sixteen-clothing
           </div>
           <div class="col-md-4">
             <div class="product-item">
-              <p><a href="products.html"><img src="assets/images/product_01.jpg" alt=""></a></p>
+              <a href="products.html"><img src="assets/images/product_01.jpg" alt=""></a>
               <div class="down-content">
 				<a href="products.html"><h4>Floral Collection</h4></a>
                 <h6>$13.00/each</h6>
@@ -119,7 +119,7 @@ https://templatemo.com/tm-546-sixteen-clothing
           </div>
           <div class="col-md-4">
             <div class="product-item">
-              <p><a href="product.html"><img src="assets/images/product_02.jpg" alt=""></a></p>
+              <a href="product.html"><img src="assets/images/product_02.jpg" alt=""></a>
               <div class="down-content">
                 <a href="products.html"><h4>Fruity Collection</h4></a>
                 <h6>$13.00/each</h6>
@@ -130,18 +130,18 @@ https://templatemo.com/tm-546-sixteen-clothing
           </div>
           <div class="col-md-4">
             <div class="product-item">
-              <p><a href="products.html"><img src="assets/images/product_03.jpg" alt=""></a></p>
+              <a href="products.html"><img src="assets/images/product_03.jpg" alt=""></a>
               <div class="down-content">
                 <a href="products.html"><h4>Musky Collection</h4></a>
                 <h6>$13.00/each</h6>
-                <p>Explore the complexities of earth and musk tones in our woodsy collection.</p>
+                <p>Explore the complexities of earth and musk tones in our musky collection.</p>
 				<p><b>Caribbean Teakwood<br>Library<br>Smoked Oud</b></p>
               </div>
             </div>
           </div>
 		  <div class="col-md-4">
             <div class="product-item">
-              <p><a href="products.html"><img src="assets/images/product_04.jpg" alt=""></a></p>
+              <a href="products.html"><img src="assets/images/product_04.jpg" alt=""></a>
               <div class="down-content">
                 <a href="products.html"><h4>Sweet Collection</h4></a>
                 <h6>$13.00/each</h6>
@@ -152,7 +152,7 @@ https://templatemo.com/tm-546-sixteen-clothing
           </div>
 		  <div class="col-md-4">
             <div class="product-item">
-              <p><a href="products.html"><img src="assets/images/product_05.jpg" alt=""></a></p>
+              <a href="products.html"><img src="assets/images/product_05.jpg" alt=""></a>
               <div class="down-content">
                 <a href="products.html"><h4>Fresh Collection</h4></a>
                 <h6>$13.00/each</h6>
