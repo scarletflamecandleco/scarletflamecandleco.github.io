@@ -88,8 +88,36 @@ a.filled-button:hover {
 	margin-bottom: 15px;
 }
 
-.products-heading {
+.main-products-heading {
 	background-image: url(../images/products-heading.jpg);
+}
+
+.elemental-products-heading {
+	background-image: url(../images/elemental.png);
+}
+
+.floral-products-heading {
+	background-image: url(../images/floral.png);
+}
+
+.fruity-products-heading {
+	background-image: url(../images/fruity.png);
+}
+
+.musky-products-heading {
+	background-image: url(../images/musky.png);
+}
+
+.sweet-products-heading {
+	background-image: url(../images/sweet.png);
+}
+
+.fresh-products-heading {
+	background-image: url(../images/fresh.png);
+}
+
+.zodiac-products-heading {
+	background-image: url(../images/galaxy.png);
 }
 
 .about-heading {
@@ -321,7 +349,7 @@ header .navbar {
 	background-image: url(../images/slide_01.png);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: top center;
 }
 
 .banner-item-02 {

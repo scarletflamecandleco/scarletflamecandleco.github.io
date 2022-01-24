@@ -51,7 +51,7 @@ https://templatemo.com/tm-546-sixteen-clothing
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
-              <li class="nav-item active">
+              <li class="nav-item">
                 <a class="nav-link" href="index.html">Home
                   <span class="sr-only">(current)</span>
                 </a>
@@ -59,13 +59,13 @@ https://templatemo.com/tm-546-sixteen-clothing
 			  <li class="nav-item">
                 <a class="nav-link" href="about.html">About</a>
               </li>
-              <li class="nav-item">
+              <li class="nav-item active">
                 <a class="nav-link" href="products.html">Shop</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="contact.html">Contact</a>
               </li>
-			  <li>
+				<li>
 			  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
 				<input type="hidden" name="cmd" value="_s-xclick">
 				<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIG1QYJKoZIhvcNAQcEoIIGxjCCBsICAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYA/22EoBGB8VUjx+zabJ/Kj0NDAIAuBE+UAk7D7Qzxi30QNFr5lud3Yb7HZHLBOzlCg2/P9t4pehlaU3di1QfpLhYPDCCGzcKi7MLGUVSR+5UU5gJnhvoNLxOdSt08S2n4/A86jfbFuZ0+fEyihPj/4SNRRtU2dXIDbdaU0Tg79GzELMAkGBSsOAwIaBQAwUwYJKoZIhvcNAQcBMBQGCCqGSIb3DQMHBAhlzpxFI9tvHYAwDC9eIyk3jREX99KDchuQNpOmr1bJVONsecRtQeeOcO22eFz+mCdeyZM7sbtklYfYoIIDhzCCA4MwggLsoAMCAQICAQAwDQYJKoZIhvcNAQEFBQAwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMB4XDTA0MDIxMzEwMTMxNVoXDTM1MDIxMzEwMTMxNVowgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBR07d/ETMS1ycjtkpkvjXZe9k+6CieLuLsPumsJ7QC1odNz3sJiCbs2wC0nLE0uLGaEtXynIgRqIddYCHx88pb5HTXv4SZeuv0Rqq4+axW9PLAAATU8w04qqjaSXgbGLP3NmohqM6bV9kZZwZLR/klDaQGo1u9uDb9lr4Yn+rBQIDAQABo4HuMIHrMB0GA1UdDgQWBBSWn3y7xm8XvVk/UtcKG+wQ1mSUazCBuwYDVR0jBIGzMIGwgBSWn3y7xm8XvVk/UtcKG+wQ1mSUa6GBlKSBkTCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb22CAQAwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOBgQCBXzpWmoBa5e9fo6ujionW1hUhPkOBakTr3YCDjbYfvJEiv/2P+IobhOGJr85+XHhN0v4gUkEDI8r2/rNk1m0GA8HKddvTjyGw/XqXa+LSTlDYkqI8OwR8GEYj4efEtcRpRYBxV8KxAW93YDWzFGvruKnnLbDAF6VR5w/cCMn5hzGCAZowggGWAgEBMIGUMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbQIBADAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjIwMTEzMTYzMTAxWjAjBgkqhkiG9w0BCQQxFgQUhGL1QINgdvgHiouRO8AEJ7j8M8swDQYJKoZIhvcNAQEBBQAEgYCwl8vdQWOd+Xgu2yKEJJZgSK+MerpRWmoQd3SG3+kh5Httkj/KaOLhiXQ4LVbP06fg9xQOD4cqwDYw1gWt1kXBVW8oW8FHXKWB2APBdy0jhWFBVyMwOChzf9y6dOAEfmlVoM5kWFYLZGH1JLoH1Ajoe9p0UggY39bFvHrV3AHBOg==-----END PKCS7-----">
@@ -80,100 +80,84 @@ https://templatemo.com/tm-546-sixteen-clothing
     </header>
 
     <!-- Page Content -->
-    <!-- Banner Starts Here -->
-    <div class="banner header-text">
-      <div class="owl-banner owl-carousel">
-        <div class="banner-item-01">
-          <div class="text-content">
-			<h2></h2>
-          </div>
-        </div>
-        <div class="banner-item-02">
-          <div class="text-content">
-            <h4></h4>
-            <h2></h2>
-          </div>
-        </div>
-        <div class="banner-item-03">
-          <div class="text-content">
-            <h4></h4>
-            <h2></h2>
+    <div class="page-heading floral-products-heading header-text">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
           </div>
         </div>
       </div>
     </div>
-    <!-- Banner Ends Here -->
 
+    
     <div class="latest-products">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Scent Collections</h2>
-              <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
+              <h2>Floral Collection</h2>
+			  <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
-		  <div class="col-md-4">
-            <div class="product-item">
-              <a href="elemental.html"><img src="assets/images/sqelemental.png" alt=""></a>
-              <div class="down-content">
-                <a href="elemental.html"><h4>Elemental Collection</h4></a>
-                <p>The four elements come together in our elemental mythical creatures collection.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="product-item">
-              <a href="floral.html"><img src="assets/images/floral.png" alt=""></a>
-              <div class="down-content">
-				<a href="floral.html"><h4>Floral Collection</h4></a>
-                <p>Enjoy the delicate and serene aromas of our floral collection.</p>
-              </div>
-            </div>
-          </div>
-		  <div class="col-md-4">
-            <div class="product-item">
-              <a href="fresh.html"><img src="assets/images/fresh.png" alt=""></a>
-              <div class="down-content">
-                <a href="fresh.html"><h4>Fresh Collection</h4></a>
-                <p>Breathe in the clean and green scents with our fresh collection.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="product-item">
-              <a href="fruity.html"><img src="assets/images/fruity.png" alt=""></a>
-              <div class="down-content">
-                <a href="fruity.html"><h4>Fruity Collection</h4></a>
-                <p>Experience the bold and citrusy scents of our fruity collection.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="product-item">
-              <a href="musky.html"><img src="assets/images/musky.png" alt=""></a>
-              <div class="down-content">
-                <a href="musky.html"><h4>Musky Collection</h4></a>
-                <p>Explore the complexities of earth and musk tones in our musky collection.</p>
-              </div>
-            </div>
-          </div>
-		  <div class="col-md-4">
-            <div class="product-item">
-              <a href="sweet.html"><img src="assets/images/sweet.png" alt=""></a>
-              <div class="down-content">
-                <a href="sweet.html"><h4>Sweet Collection</h4></a>
-                <p>Be whisked into the kitchen with our sweet and spicy collection.</p>
-              </div>
-            </div>
-          </div>
-            </div>
-          </div>
-        </div>
+                    <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/french_lilac.jpg" alt="">
+						  <div class="down-content">
+							<h4>French Lilac</h4></a>
+							<h6>$13.00</h6>
+							<p>Experience the calming aroma of a field of lilacs in full bloom.</p>
+							<p><b>Top Notes:</b> Green Leaves<br><b>Middle:</b> Lilac, Honeysuckle<br><b>Base:</b> Amyris, Powder</p>
+							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="PXQMD6CSUG42U">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/plumeria.jpg" alt="">
+						  <div class="down-content">
+							<h4>Plumeria</h4></a>
+							<h6>$13.00</h6>
+							<p>Blended bouquet of jasmine, gardenia, guava, and plumeria.</p>
+							<p><b>Top Notes:</b> Guava, Green Leaves<br><b>Middle:</b> Plumeria, Jasmine, Gardenia<br><b>Base:</b> Powder</p>
+							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="AE5NJEPVQBA3G">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/sea_salt.jpg" alt="">
+						  <div class="down-content">
+							<h4>Sea Salt & Orchid</h4></a>
+							<h6>$13.00</h6>
+							<p>Crisply fresh with salty highlights and soft floral notes.</p>
+							<p><b>Top Notes:</b> Ozone, Sea Salt<br><b>Middle:</b> Jasmine, Green Leaves, Lilies<br><b>Base:</b> Tonka Bean, Wood</p>
+							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="85UKEFPWEQHX6">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>					  
+         </div>
       </div>
     </div>
 
-   
+    
     <footer>
       <div class="container">
         <div class="row">
