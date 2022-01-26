@@ -169,10 +169,19 @@ https://templatemo.com/tm-546-sixteen-clothing
           </div>
 		  <div class="col-md-4">
             <div class="product-item">
+              <a href="melts.html"><img src="assets/images/zodiac.png" alt=""></a>
+              <div class="down-content">
+                <a href="melts.html"><h4>Wax Melt Collection</h4></a>
+                <p>Many of your favorite scents now offered in colored wax melts!</p>
+              </div>
+            </div>
+          </div>
+		  <div class="col-md-4">
+            <div class="product-item">
               <a href="zodiac.html"><img src="assets/images/zodiac.png" alt=""></a>
               <div class="down-content">
                 <a href="zodiac.html"><h4>Zodiac Galaxy Collection</h4></a>
-                <p>Be whisked into the kitchen with our sweet and spicy collection.</p>
+                <p>Personalize the scent of these one-of-a-kind galaxy colored zodiac candles!</p>
               </div>
             </div>
           </div>

@@ -120,6 +120,10 @@ a.filled-button:hover {
 	background-image: url(../images/galaxy.png);
 }
 
+.melts-products-heading {
+	background-image: url(../images/slide_02.jpg);
+}
+
 .about-heading {
 	background-image: url(../images/about-heading.jpg);
 }
