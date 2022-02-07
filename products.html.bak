@@ -357,56 +357,139 @@ https://templatemo.com/tm-546-sixteen-clothing
                         </div>
                       </div>
                     </div>
+					<div class="col-md-12">
+            <div class="section-heading">
+                  <h2>Wax Melts</h2>
+            </div>
+         </div>
+			<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/boMelt.jpg" alt="">
+						  <div class="down-content">
+							<h4>Blood Orange</h4>
+							<h6>$7.00</h6>
+							<p>Fresh, full-bodied citrus orange with hints of bergamot and grapefruit. Now in colored wax melts!</p>
+							<p><b>Top Notes:</b> Bergamot, Grapefruit<br><b>Middle:</b> Orange, Green Leaves<br><b>Base:</b> Cedar</p>
+							<p>6 oz (170 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="SXTAU88LVS8NS">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/ctMelt.jpg" alt="">
+						  <div class="down-content">
+							<h4>Caribbean Teakwood</h4>
+							<h6>$7.00</h6>
+							<p>Spicy top notes of ginger and spice infused with sandalwood and amber. Now in colored wax melts!</p>
+							<p><b>Top Notes:</b> Allspice, Leather<br><b>Middle:</b> Teakwood, Clove<br><b>Base:</b> Amber, Sandalwood</p>
+							<p>6 oz (170 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="72X46786RFLNJ">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/lpcMelt.jpg" alt="">
+						  <div class="down-content">
+							<h4>Lemon Pound Cake</h4>
+							<h6>$7.00</h6>
+							<p>Juicy lemon combined with a freshly baked gourmet cake. Now in colored wax melts!</p>
+							<p><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Butter<br><b>Base:</b> Sugar, Vanilla, Cake</p>
+							<p>6 oz (170 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="C7G2YLF39H5HL">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>			
 		<div class="col-md-12">
             <div class="section-heading">
-                  <h2>Elemental Mythical Creatures - Coming Soon</h2>
+                  <h2>Elemental Mythical Creatures - Now Available!</h2>
             </div>
          </div>
 						<div class="col-md-6">
 						<div class="product-item">
-						  <img src="assets/images/fire.png" alt="">
+						  <img src="assets/images/phoenix.jpg" alt="">
 						  <div class="down-content">
 							<h4>Phoenix - Fire</h4></a>
 							<h6>$15.00</h6>
 							<p>Fiery, potent blend of sweet, spicy, and earthy notes to symbolize a Phoenix rising from the ashes.</p>
 							<p><b>Top Notes:</b> Orange Blossom<br><b>Middle:</b> Clove, Patchouli, Cedar<br><b>Base:</b> Tonka Bean, Incense</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="C4QMGJ8AK8FRE">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
 					  <div class="col-md-6">
 						<div class="product-item">
-						  <img src="assets/images/air.png" alt="">
+						  <img src="assets/images/pegasus.jpg" alt="">
 						  <div class="down-content">
 							<h4>Pegasus - Air</h4></a>
 							<h6>$15.00</h6>
 							<p>Brisk winds on a cool night reminiscent of the winged horse Pegasus taking flight.</p>
 							<p><b>Top Notes:</b> Lavender, Eucalyptus<br><b>Middle:</b> Bayberry, Cypress, Pine<br><b>Base:</b> Oakmoss, Peppercorn, Cedar, Rosemary</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="BNBH3B4EMXSJL">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
 					  <div class="col-md-6">
 						<div class="product-item">
-						  <img src="assets/images/earth.png" alt="">
+						  <img src="assets/images/gargoyle.jpg" alt="">
 						  <div class="down-content">
 							<h4>Gargoyle - Earth</h4></a>
 							<h6>$15.00</h6>
 							<p>Grounded and complex earth tones to ward away evil symbolic of the watchful Gargoyle.</p>
 							<p><b>Top Notes:</b> Orange, Sage<br><b>Middle:</b> Lavender<br><b>Base:</b> Tonka Bean, Amber, Oakmoss</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="MSD93QTY7UBMQ">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
 					<div class="col-md-6">
 						<div class="product-item">
-						  <img src="assets/images/water.png" alt="">
+						  <img src="assets/images/kraken.jpg" alt="">
 						  <div class="down-content">
 							<h4>Kraken - Water</h4></a>
 							<h6>$15.00</h6>
 							<p>Reminiscent of the deep, blue sea and the mighty Kraken protecting its depths.</p>
 							<p><b>Top Notes:</b> Ozone<br><b>Middle:</b> Eucalyptus, Plum, Sea Salt<br><b>Base:</b> Dark Musk, Sandalwood, Powder</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="SB9ZAWYVV572Y">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
