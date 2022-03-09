@@ -92,6 +92,14 @@ a.filled-button:hover {
 	background-image: url(../images/products-heading.jpg);
 }
 
+.anchor-products-heading {
+	background-image: url(../images/anchor.png);
+}
+
+.autumn-products-heading {
+	background-image: url(../images/cover.png);
+}
+
 .elemental-products-heading {
 	background-image: url(../images/elemental.png);
 }
@@ -106,6 +114,10 @@ a.filled-button:hover {
 
 .musky-products-heading {
 	background-image: url(../images/musky.png);
+}
+
+.potions-products-heading {
+	background-image: url(../images/potions.png);
 }
 
 .sweet-products-heading {
