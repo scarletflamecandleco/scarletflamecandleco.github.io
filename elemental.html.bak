@@ -108,12 +108,12 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<p>Fiery, potent blend of sweet, spicy, and earthy notes to symbolize a Phoenix rising from the ashes.</p>
 							<p><b>Top Notes:</b> Orange Blossom<br><b>Middle:</b> Clove, Patchouli, Cedar<br><b>Base:</b> Tonka Bean, Incense</p>
 							<p>8.5 oz (241 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="C4QMGJ8AK8FRE">
 							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
+							</form> -->
 						  </div>
 						</div>
 					  </div>
