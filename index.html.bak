@@ -91,7 +91,7 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="banner-item-02">
           <div class="text-content">
             <h4></h4>
-            <h2></h2>
+            <h6></h6>
           </div>
         </div>
         <div class="banner-item-03">
@@ -160,6 +160,15 @@ https://templatemo.com/tm-546-sixteen-clothing
           </div>
 		  <div class="col-md-4">
             <div class="product-item">
+              <a href="seastheday.html"><img src="assets/images/seas.png" alt=""></a>
+              <div class="down-content">
+                <a href="seastheday.html"><h4>Seas the Day Collection</h4></a>
+                <p>Escape to a tropical paradise with our summer collection.</p>
+              </div>
+            </div>
+          </div>
+		  <div class="col-md-4">
+            <div class="product-item">
               <a href="sweet.html"><img src="assets/images/sweet.png" alt=""></a>
               <div class="down-content">
                 <a href="sweet.html"><h4>Sweet Collection</h4></a>
@@ -169,7 +178,7 @@ https://templatemo.com/tm-546-sixteen-clothing
           </div>
 		  <div class="col-md-4">
             <div class="product-item">
-              <a href="somethingwicked.html"><img src="assets/images/something_wickedsq.png" alt=""></a>
+              <a href="somethingwicked.html"><img src="assets/images/something_wicked.jpg" alt=""></a>
               <div class="down-content">
                 <a href="somethingwicked.html"><h4>Something Wicked Collection</h4></a>
                 <p>Uniquely scented and colored mystery candles.</p>
@@ -185,7 +194,7 @@ https://templatemo.com/tm-546-sixteen-clothing
               </div>
             </div>
           </div>
-		  <div class="col-md-4">
+		  <!-- <div class="col-md-4">
             <div class="product-item">
               <a href="zodiac.html"><img src="assets/images/zodiac.png" alt=""></a>
               <div class="down-content">
@@ -193,7 +202,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <p>Personalize the scent of these one-of-a-kind galaxy colored zodiac candles!</p>
               </div>
             </div>
-          </div>
+          </div> -->
             </div>
           </div>
         </div>

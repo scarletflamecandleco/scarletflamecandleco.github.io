@@ -94,7 +94,7 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Something Wicked Collection - Coming Soon!</h2>
+              <h2>Something Wicked Collection - Now Available!</h2>
             </div>
           </div>
           <div class="col-md-6">
@@ -123,11 +123,11 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Something Wicked Collection - Coming Soon!</h2>
+              <h2>Something Wicked Collection - Now Available!</h2>
 			  <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
-                    <div class="col-md-6">
+                    <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/lion.png" alt="">
 						  <div class="down-content">
@@ -145,7 +145,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					  <div class="col-md-6">
+					  <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/serpent.png" alt="">
 						  <div class="down-content">
@@ -163,14 +163,14 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					  <div class="col-md-6">
+					  <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/badger.png" alt="">
 						  <div class="down-content">
 							<h4>Benevolent Badger</h4></a>
 							<h6>$15.00</h6>
 							<p>Cozy blend of spiced honey, tonka bean, and bergamot evocative of inviting and welcoming spaces.</p>
-							<p><b>Top Notes:</b> Bergamot<br><b>Middle:</b> Amber, Coriander, Honey<br><b>Base:</b> Dark Musk, Tonka Bean, Oud, Tobacco Leaves</p>
+							<p><b>Top Notes:</b> Bergamot<br><b>Middle:</b> Amber, Coriander, Honey<br><b>Base:</b> Dark Musk, Tonka Bean, Oud</p>
 							<p>8.5 oz (241 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
@@ -181,7 +181,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					<div class="col-md-6">
+					<div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/eagle.png" alt="">
 						  <div class="down-content">
@@ -199,7 +199,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					<div class="col-md-6">
+					<div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/sort_me.png" alt="">
 						  <div class="down-content">
@@ -207,6 +207,12 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<h6>$15.00</h6>
 							<p>Let the fates decide where you belong! Choose this option to receive a surprise candle!</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="ERFY2ABUERMUN">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>  					  

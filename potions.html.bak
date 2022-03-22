@@ -99,7 +99,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 			  <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
-                    <div class="col-md-4">
+                    <!-- <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/minor_healing.png" alt="">
 						  <div class="down-content">
@@ -110,7 +110,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<p>4 oz (113 g)</p>
 						  </div>
 						</div>
-					  </div>
+					  </div> -->
 					  <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/healing.png" alt="">
@@ -123,7 +123,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					  <div class="col-md-4">
+					  <!-- <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/ultimate_healing.png" alt="">
 						  <div class="down-content">
@@ -146,7 +146,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<p>4 oz (113 g)</p>
 						  </div>
 						</div>
-					  </div>
+					  </div> -->
 					  <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/stamina.png" alt="">
@@ -159,7 +159,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					  <div class="col-md-4">
+					  <!-- <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/ultimate_stamina.png" alt="">
 						  <div class="down-content">
@@ -182,7 +182,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<p>4 oz (113 g)</p>
 						  </div>
 						</div>
-					  </div>
+					  </div> -->
 					  <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/magicka.png" alt="">
@@ -190,23 +190,23 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<h4>Potion of Magicka</h4></a>
 							<h6>$15.00</h6>
 							<p>Restore 50 points of magicka</p>
-							<p><b>Top Notes:</b> Green Leaves, Marine<br><b>Middle:</b> Lavender, Sage<br><b>Base:</b> Cypress, Amber, Cedar</p>
+							<p><b>Top Notes:</b> Lavender<br><b>Middle:</b> Chamomile, Sage, Rosemary, Champhor<br><b>Base:</b> Cedar, Sandalwood</p>
 							<p>8.5 oz (241 g)</p>
 						  </div>
 						</div>
 					  </div>
-					  <div class="col-md-4">
+					  <!-- <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/ultimate_magicka.png" alt="">
 						  <div class="down-content">
-							<h4>Potion of Vigorous Magicka</h4></a>
+							<h4>Potion of Ultimate Magicka</h4></a>
 							<h6>$28.00</h6>
 							<p>Completely restore magicka</p>
 							<p><b>Top Notes:</b> Green Leaves, Marine<br><b>Middle:</b> Lavender, Sage<br><b>Base:</b> Cypress, Amber, Cedar</p>
 							<p>16 oz (453 g)</p>
 						  </div>
 						</div>
-					  </div>					  
+					  </div> -->				  
          </div>
       </div>
     </div>

@@ -117,7 +117,11 @@ a.filled-button:hover {
 }
 
 .potions-products-heading {
-	background-image: url(../images/potions2.png);
+	background-image: url(../images/potions.png);
+}
+
+.seastheday-products-heading {
+	background-image: url(../images/seas_title.png);
 }
 
 .sweet-products-heading {
@@ -125,7 +129,7 @@ a.filled-button:hover {
 }
 
 .fresh-products-heading {
-	background-image: url(../images/fresh.png);
+	background-image: url(../images/fresh_title.png);
 }
 
 .zodiac-products-heading {
@@ -137,7 +141,7 @@ a.filled-button:hover {
 }
 
 .wicked-products-heading {
-	background-image: url(../images/something_wicked.png);
+	background-image: url(../images/something_wicked.jpg);
 }
 
 .about-heading {
@@ -369,23 +373,23 @@ header .navbar {
 	background-image: url(../images/slide_01.png);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: top center;
+	background-position: 25% 20%;
 }
 
 .banner-item-02 {
 	padding: 300px 0px;
-	background-image: url(../images/slide_02.jpg);
+	background-image: url(../images/market.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: top center;
 }
 
 .banner-item-03 {
 	padding: 300px 0px;
-	background-image: url(../images/slide_03.jpg);
+	background-image: url(../images/something_wicked.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: top center;
+	background-position: center center;
 }
 
 .banner .banner-item {
