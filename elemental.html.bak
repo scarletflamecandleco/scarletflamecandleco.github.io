@@ -99,7 +99,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 			  <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
-                    <div class="col-md-6">
+                    <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/phoenix.jpg" alt="">
 						  <div class="down-content">
@@ -117,7 +117,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					  <div class="col-md-6">
+					  <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/pegasus.jpg" alt="">
 						  <div class="down-content">
@@ -135,7 +135,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					  <div class="col-md-6">
+					  <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/gargoyle.jpg" alt="">
 						  <div class="down-content">
@@ -153,7 +153,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					<div class="col-md-6">
+					<div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/kraken.jpg" alt="">
 						  <div class="down-content">
