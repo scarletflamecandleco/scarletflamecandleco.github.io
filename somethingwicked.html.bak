@@ -94,7 +94,7 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Something Wicked Collection - Now Available!</h2>
+              <h2>The Sorting Candle - Now Available!</h2>
             </div>
           </div>
           <div class="col-md-6">
@@ -116,6 +116,18 @@ https://templatemo.com/tm-546-sixteen-clothing
       </div>
     </div>
 	</div>
+	
+		<div class="latest-products">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="product-item">
+						  <img src="assets/images/lion.png" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
 
 <div class="latest-products">
@@ -123,7 +135,7 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Something Wicked Collection - Now Available!</h2>
+              <h2>Something Wicked - Now Available!</h2>
 			  <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
