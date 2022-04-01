@@ -362,6 +362,22 @@ header .navbar {
 
 
 /* Banner Style */
+.notif {
+	background: #ff1616
+}
+
+.banner__content {
+	padding: 20px;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.banner__text {
+	line-height: 1.4;
+	font-size: 12px;
+	font-family: 'Poppins', sans-serif;
+}
+
 .banner {
 	position: relative;
 	text-align: center;
@@ -373,7 +389,7 @@ header .navbar {
 	background-image: url(../images/slide_01.png);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 25% 20%;
+	background-position: 25% 30%;
 }
 
 .banner-item-02 {
