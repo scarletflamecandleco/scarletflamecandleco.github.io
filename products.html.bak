@@ -41,6 +41,15 @@ https://templatemo.com/tm-546-sixteen-clothing
     </div>  
     <!-- ***** Preloader End ***** -->
 
+	<!-- NOTIFICATION BANNER -->
+	<div class="notif">
+		<div class="banner__content">
+			<div class="banner__text">
+				<h6>Website will be on hiatus starting April 13th to prepare for the Indie South Springtacular Market. Place your orders before then or catch us on April 30th - May 1st in Bishop Park of Athens, GA for all your favorite scents!</h6>
+			</div>
+		</div>
+	</div>
+
     <!-- Header -->
     <header class="">
       <nav class="navbar navbar-expand-lg">
@@ -358,60 +367,6 @@ https://templatemo.com/tm-546-sixteen-clothing
                       </div>
                     </div>
 					
-					<div class="col-md-12">
-					<div class="section-heading">
-						<h2>Seas the Day Collection - Coming Soon</h2>
-					</div>
-					</div>
-					<div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/bay_breeze.png" alt="">
-						  <div class="down-content">
-							<h4>Bay Breeze</h4>
-							<h6>$15.00</h6>
-							<p>Tropical fusion of fresh mango and creamy coconut milk.</p>
-							<p><b>Top Notes:</b> Orange, Pineapple<br><b>Middle:</b> Peach, Mango<br><b>Base:</b> Sugar, Coconut Milk</p>
-							<p>8.5 oz (241 g)</p>
-						  </div>
-						</div>
-					  </div>
-					  <div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/island_escape.png" alt="">
-						  <div class="down-content">
-							<h4>Island Escape</h4>
-							<h6>$15.00</h6>
-							<p>Drift away to warm, sunny beaches with gentle turquoise waters.</p>
-							<p><b>Top Notes:</b> Coconut Milk, Benzoin<br><b>Middle:</b> Sandalwood, Coconut<br><b>Base:</b> Amyris, Tonka Bean, Cedar</p>
-							<p>8.5 oz (241 g)</p>
-						  </div>
-						</div>
-					  </div>
-					  <div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/oasis.png" alt="">
-						  <div class="down-content">
-							<h4>Sea Salt Oasis</h4>
-							<h6>$15.00</h6>
-							<p>Gentle, salty ocean breeze upon pink sand beaches.</p>
-							<p><b>Top Notes:</b> Orange Peel, Cadamom<br><b>Middle:</b> Sea Salt<br><b>Base:</b> Amber, Light Musk, Palm</p>
-							<p>8.5 oz (241 g)</p>
-						  </div>
-						</div>
-					  </div>
-						<div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/tropical_sunrise.png" alt="">
-						  <div class="down-content">
-							<h4>Tropical Sunrise</h4>
-							<h6>$15.00</h6>
-							<p>Prepare your sunscreen for the fun and relaxing beach day!</p>
-							<p><b>Top Notes:</b> Pineapple, Amaretto<br><b>Middle:</b> Coconut Milk, Banana<br><b>Base:</b> Tonka Bean, Vanilla</p>
-							<p>8.5 oz (241 g)</p>
-						  </div>
-						</div>
-					  </div>
-					
 					
 					<div class="col-md-12">
             <div class="section-heading">
@@ -563,12 +518,13 @@ https://templatemo.com/tm-546-sixteen-clothing
 						</div>
 					  </div>
 
-					  
-		<div class="col-md-12">
-            <div class="section-heading">
-                  <h2>Elemental Mythical Creatures - Now Available!</h2>
-            </div>
-         </div>
+					
+					
+					<div class="col-md-12">
+						<div class="section-heading">
+							  <h2>Elemental Mythical Creatures - Now Available!</h2>
+						</div>
+					 </div>
 						<div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/phoenix.jpg" alt="">
@@ -735,7 +691,103 @@ https://templatemo.com/tm-546-sixteen-clothing
 							</form>
 						  </div>
 						</div>
-					  </div>  
+					  </div> 
+
+<div class="col-md-12">
+					<div class="section-heading">
+						<h2>Seas the Day Collection - Coming Soon</h2>
+					</div>
+					</div>
+					<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/bay_breeze.png" alt="">
+						  <div class="down-content">
+							<h4>Bay Breeze</h4>
+							<h6>$15.00</h6>
+							<p>Tropical fusion of fresh mango and creamy coconut milk.</p>
+							<p><b>Top Notes:</b> Orange, Pineapple<br><b>Middle:</b> Peach, Mango<br><b>Base:</b> Sugar, Coconut Milk</p>
+							<p>8.5 oz (241 g)</p>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/island_escape.png" alt="">
+						  <div class="down-content">
+							<h4>Island Escape</h4>
+							<h6>$15.00</h6>
+							<p>Drift away to warm, sunny beaches with gentle turquoise waters.</p>
+							<p><b>Top Notes:</b> Coconut Milk, Benzoin<br><b>Middle:</b> Sandalwood, Coconut<br><b>Base:</b> Amyris, Tonka Bean, Cedar</p>
+							<p>8.5 oz (241 g)</p>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/oasis.png" alt="">
+						  <div class="down-content">
+							<h4>Sea Salt Oasis</h4>
+							<h6>$15.00</h6>
+							<p>Gentle, salty ocean breeze upon pink sand beaches.</p>
+							<p><b>Top Notes:</b> Orange Peel, Cadamom<br><b>Middle:</b> Sea Salt<br><b>Base:</b> Amber, Light Musk, Palm</p>
+							<p>8.5 oz (241 g)</p>
+						  </div>
+						</div>
+					  </div>
+						<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/tropical_sunrise.png" alt="">
+						  <div class="down-content">
+							<h4>Tropical Sunrise</h4>
+							<h6>$15.00</h6>
+							<p>Prepare your sunscreen for the fun and relaxing beach day!</p>
+							<p><b>Top Notes:</b> Pineapple, Amaretto<br><b>Middle:</b> Coconut Milk, Banana<br><b>Base:</b> Tonka Bean, Vanilla</p>
+							<p>8.5 oz (241 g)</p>
+						  </div>
+						</div>
+					  </div>
+					
+				<div class="col-md-12">
+					<div class="section-heading">
+						<h2>Alchemical Collection - Coming Soon</h2>
+					</div>
+				</div>
+					<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/healing.png" alt="">
+						  <div class="down-content">
+							<h4>Potion of Healing</h4></a>
+							<h6>$15.00</h6>
+							<p>Restore 50 points of health</p>
+							<p><b>Top Notes:</b> Peppermint, Grapefruit<br><b>Middle:</b> Rhubarb, Pomegranate<br><b>Base:</b> Cedar, Rosemary</p>
+							<p>8.5 oz (241 g)</p>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/stamina.png" alt="">
+						  <div class="down-content">
+							<h4>Potion of Stamina</h4></a>
+							<h6>$15.00</h6>
+							<p>Restore 50 points of stamina</p>
+							<p><b>Top Notes:</b> Peppermint, Eucalyptus<br><b>Middle:</b> Cedar, Clove<br><b>Base:</b> Powder, Patchouli</p>
+							<p>8.5 oz (241 g)</p>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/magicka.png" alt="">
+						  <div class="down-content">
+							<h4>Potion of Magicka</h4></a>
+							<h6>$15.00</h6>
+							<p>Restore 50 points of magicka</p>
+							<p><b>Top Notes:</b> Lavender<br><b>Middle:</b> Chamomile, Sage, Rosemary<br><b>Base:</b> Cedar, Sandalwood</p>
+							<p>8.5 oz (241 g)</p>
+						  </div>
+						</div>
+					  </div>					  
 					  
 					  <!-- <div class="col-md-12">
             <div class="section-heading">
