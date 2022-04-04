@@ -80,7 +80,7 @@ https://templatemo.com/tm-546-sixteen-clothing
     </header>
 
     <!-- Page Content -->
-    <div class="page-heading sweet-products-heading header-text">
+    <div class="page-heading seastheday-products-heading header-text">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -101,7 +101,7 @@ https://templatemo.com/tm-546-sixteen-clothing
           </div>
                     <div class="col-md-4">
 						<div class="product-item">
-						  <img src="assets/images/bay_breeze.png" alt="">
+						  <img src="assets/images/bay_breeze.jpg" alt="">
 						  <div class="down-content">
 							<h4>Bay Breeze</h4>
 							<h6>$15.00</h6>
@@ -113,7 +113,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 					  </div>
 					  <div class="col-md-4">
 						<div class="product-item">
-						  <img src="assets/images/island_escape.png" alt="">
+						  <img src="assets/images/island_escape.jpg" alt="">
 						  <div class="down-content">
 							<h4>Island Escape</h4>
 							<h6>$15.00</h6>
@@ -125,7 +125,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 					  </div>
 					  <div class="col-md-4">
 						<div class="product-item">
-						  <img src="assets/images/oasis.png" alt="">
+						  <img src="assets/images/oasis.jpg" alt="">
 						  <div class="down-content">
 							<h4>Sea Salt Oasis</h4>
 							<h6>$15.00</h6>
@@ -137,7 +137,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 					  </div>
 						<div class="col-md-4">
 						<div class="product-item">
-						  <img src="assets/images/tropical_sunrise.png" alt="">
+						  <img src="assets/images/tropical_sunrise.jpg" alt="">
 						  <div class="down-content">
 							<h4>Tropical Sunrise</h4>
 							<h6>$15.00</h6>
