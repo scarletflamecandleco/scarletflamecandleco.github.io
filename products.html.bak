@@ -45,7 +45,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 	<div class="notif">
 		<div class="banner__content">
 			<div class="banner__text">
-				<h6>Website will be on hiatus starting April 13th to prepare for the Indie South Springtacular Market. Place your orders before then or catch us on April 30th - May 1st in Bishop Park of Athens, GA for all your favorite scents!</h6>
+				<h6>Website will be on hiatus starting April 13th to prepare for the Indie South Springtacular Market. Catch us on April 30th - May 1st in Bishop Park of Athens, GA for all your favorite scents!</h6>
 			</div>
 		</div>
 	</div>
@@ -102,7 +102,21 @@ https://templatemo.com/tm-546-sixteen-clothing
       </div>
     </div>
 
-    
+ 
+ 	<div class="latest-products">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Website is on Hiatus until early May. Come find us at the Indie South Springtacular Market on April 30th in Bishop Park of Athens, GA!</h2>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	</div>
+ 
+<!--
+ 
     <div class="products">
       <div class="container">
         <div class="row">
@@ -427,7 +441,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					  <div class="col-md-4">
+					   <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/cpMelt.jpg" alt="">
 						  <div class="down-content">
@@ -444,7 +458,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 							</form>
 						  </div>
 						</div>
-					  </div>
+					  </div> 
 					  <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/lpcMelt.jpg" alt="">
@@ -789,7 +803,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						</div>
 					  </div>					  
 					  
-					  <!-- <div class="col-md-12">
+					   <div class="col-md-12">
             <div class="section-heading">
                   <h2>Zodiac Galaxy Collection - Coming Soon</h2>
             </div>
@@ -940,11 +954,11 @@ https://templatemo.com/tm-546-sixteen-clothing
 					  </div>
                 </div>
         </div>
-      </div> -->
+      </div>
 
 			</div>
 		</div>
-	</div>
+	</div> -->
     
     <footer>
       <div class="container">
