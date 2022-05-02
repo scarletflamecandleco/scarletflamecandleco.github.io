@@ -122,7 +122,22 @@ https://templatemo.com/tm-546-sixteen-clothing
 				<div class="row">
 					<div class="col-md-3">
 						<div class="product-item">
-						  <img src="assets/images/lion.png" alt="">
+						  <img src="assets/images/gryffindor.jpg" alt="">
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="product-item">
+						  <img src="assets/images/slytherin.jpg" alt="">
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="product-item">
+						  <img src="assets/images/hufflepuff.jpg" alt="">
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="product-item">
+						  <img src="assets/images/ravenclaw.jpg" alt="">
 						</div>
 					</div>
 				</div>
