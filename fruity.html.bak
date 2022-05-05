@@ -104,7 +104,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/blood_orange.jpg" alt="">
 						  <div class="down-content">
 							<h4>Blood Orange</h4>
-							<h6>$13.00</h6>
+							<h6>$15.00</h6>
 							<p>Full-bodied, fresh citrus orange with hints of bergamot and grapefruit.</p>
 							<p><b>Top Notes:</b> Bergamot, Grapefruit<br><b>Middle:</b> Orange, Green Leaves<br><b>Base:</b> Cedar</p>
 							<p>8.5 oz (241 g)</p>
@@ -122,7 +122,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/cashmere_plum.jpg" alt="">
 						  <div class="down-content">
 							<h4>Cashmere Plum</h4>
-							<h6>$13.00</h6>
+							<h6>$15.00</h6>
 							<p>Seductively aromatic with dark musk and dark plum heart.</p>
 							<p><b>Top Notes:</b> Citrus<br><b>Middle:</b> Black Cherry, Plum<br><b>Base:</b> Amber, Light Musk, Sugar</p>
 							<p>8.5 oz (241 g)</p>
@@ -140,7 +140,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/citronella.jpg" alt="">
 						  <div class="down-content">
 							<h4>Citronella</h4>
-							<h6>$13.00</h6>
+							<h6>$15.00</h6>
 							<p>Refreshing scent to help keep pesky mosquitoes at bay.</p>
 							<p><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Camphor, Lemongrass<br><b>Base:</b> Powder</p>
 							<p>8.5 oz (241 g)</p>
@@ -152,7 +152,20 @@ https://templatemo.com/tm-546-sixteen-clothing
 							</form>
 						  </div>
 						</div>
-					  </div>					  
+					  </div>
+						<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/peach_nectar.png" alt="">
+						  <div class="down-content">
+							<h4>Peach Nectar</h4>
+							<h6>$15.00</h6>
+							<p>Juicy, rich, sultry peach with a hint of tropics!</p>
+							<p><b>Top Notes:</b> Raspberry, Mandarin<br><b>Middle:</b> Plum, Peach, Violet<br><b>Base:</b> Sugar, Vanilla</p>
+							<p>8.5 oz (241 g)</p>
+							<p>Coming Soon!</p>
+						  </div>
+						</div>
+					  </div>						  
          </div>
       </div>
     </div>

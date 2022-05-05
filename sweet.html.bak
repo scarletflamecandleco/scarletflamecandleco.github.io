@@ -104,7 +104,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/apple_harvest.jpg" alt="">
 						  <div class="down-content">
 							<h4>Apple Harvest</h4>
-							<h6>$13.00</h6>
+							<h6>$15.00</h6>
 							<p>Bright fruit notes of ripe apple with a touch of spice.</p>
 							<p><b>Top Notes:</b> Nutmeg, Cinnamon, Orange<br><b>Middle:</b> Apple<br><b>Base:</b> Vanilla, Clove</p>
 							<p>8.5 oz (241 g)</p>
@@ -122,7 +122,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/blueberry_cheesecake.jpg" alt="">
 						  <div class="down-content">
 							<h4>Blueberry Cheesecake</h4>
-							<h6>$13.00</h6>
+							<h6>$15.00</h6>
 							<p>Blended aroma of sweet graham cracker crumbs and juicy blueberries.</p>
 							<p><b>Top Notes:</b> Cinnamon<br><b>Middle:</b> Blueberry<br><b>Base:</b> Vanilla, Graham Cracker</p>
 							<p>8.5 oz (241 g)</p>
@@ -140,7 +140,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/lemon_pound_cake.jpg" alt="">
 						  <div class="down-content">
 							<h4>Lemon Pound Cake</h4>
-							<h6>$13.00</h6>
+							<h6>$15.00</h6>
 							<p>Juicy lemon combined with a freshly baked gourmet cake.</p>
 							<p><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Butter<br><b>Base:</b> Sugar, Vanilla, Cake</p>
 							<p>8.5 oz (241 g)</p>
@@ -152,7 +152,20 @@ https://templatemo.com/tm-546-sixteen-clothing
 							</form>
 						  </div>
 						</div>
-					  </div>					  
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/strawberry_shortcake.png" alt="">
+						  <div class="down-content">
+							<h4>Strawberry Shortcake</h4>
+							<h6>$15.00</h6>
+							<p>Mouthwatering strawberry resting on a rich base of vanilla, cream, & sugar.</p>
+							<p><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Butter<br><b>Base:</b> Sugar, Vanilla, Cake</p>
+							<p>8.5 oz (241 g)</p>
+							<p>Coming Soon!</p>
+						  </div>
+						</div>
+					  </div>
          </div>
       </div>
     </div>

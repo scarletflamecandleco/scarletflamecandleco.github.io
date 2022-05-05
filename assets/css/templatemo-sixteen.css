@@ -373,6 +373,8 @@ header .navbar {
 }
 
 .banner__text {
+	flex-grow: 1;
+	line-height: 1.4;
 	font-size: 12px;
 	font-family: 'Poppins', sans-serif;
 }
