@@ -100,6 +100,10 @@ a.filled-button:hover {
 	background-image: url(../images/cover.png);
 }
 
+.holiday-products-heading {
+	background-image: url(../images/holiday.png);
+}
+
 .elemental-products-heading {
 	background-image: url(../images/elemental.png);
 }
