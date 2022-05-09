@@ -216,6 +216,9 @@ https://templatemo.com/tm-546-sixteen-clothing
               </div>
             </div>
           </div>
+		 </div>
+		</div>
+	</div>
 		  
 	<!--	  
 		  
@@ -235,7 +238,27 @@ https://templatemo.com/tm-546-sixteen-clothing
     </div>
 	
 	-->
+	
+ 
+	<div class="slide-container">
+		<span id="slider-image-1"></span>
+		<span id="slider-image-2"></span>
+		<span id="slider-image-3"></span>
+			<div class="image-container">
+				<img src="assets/images/melt_heading.jpg" class="slider-image img-responsive" width="100%">
+				<img src="assets/images/zodiac.png" class="slider-image img-responsive" width="100%">
+				<img src="assets/images/sorting_candle.jpg" class="slider-image img-responsive" width="100%">
+			</div>
+		<div class="button-container">
+			<a href="#slider-image-1" class="slider-button"></a>
+			<a href="#slider-image-2" class="slider-button"></a>
+			<a href="#slider-image-3" class="slider-button"></a>
+		</div>
+	</div>	
 
+
+
+	
    
     <footer>
       <div class="container">

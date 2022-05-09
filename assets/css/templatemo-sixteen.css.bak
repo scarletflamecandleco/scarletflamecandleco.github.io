@@ -100,6 +100,10 @@ a.filled-button:hover {
 	background-image: url(../images/cover.png);
 }
 
+.holiday-products-heading {
+	background-image: url(../images/holiday.png);
+}
+
 .elemental-products-heading {
 	background-image: url(../images/elemental.png);
 }
@@ -469,6 +473,58 @@ header .navbar {
 }
 
 
+/* Creating my own slider */
+
+.slide-container {
+	width: 800px;
+	height: 600px;
+	margin-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	text-align: center;
+}
+
+.image-container {
+	width: 100%;
+	position: relative;
+	transition: left 1s;
+	-webkit-transition: left 1s;
+	-moz-transition: left 1s;
+	-o-transition: left 1s;
+}
+
+.slider-image {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+.button-container {
+	top: -20px;
+	position: relative;
+
+}
+
+.slider-button {
+	display: inline-block;
+	height: 10px;
+	width: 10px;
+	background-color: e1c430;
+	border-radius: 5px;
+}
+
+#slider-image-1:target ~ .image-container {
+	left: 0px;
+}
+
+#slider-image-2:target ~ .image-container {
+	left: -400px;
+}
+
+#slider-image-3:target ~ .image-container {
+	left: -800px;
+}
 
 /* Latest Produtcs */
 
