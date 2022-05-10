@@ -114,7 +114,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <div class="down-content">
 							<h4>Blood Orange</h4>
 							<h6>$7.00</h6>
-							<p>Fresh, full-bodied citrus orange with hints of bergamot and grapefruit. Now in colored wax melts!</p>
+							<p>Fresh, full-bodied citrus orange with hints of bergamot and grapefruit.</p>
 							<p><b>Top Notes:</b> Bergamot, Grapefruit<br><b>Middle:</b> Orange, Green Leaves<br><b>Base:</b> Cedar</p>
 							<p>6 oz (170 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -132,7 +132,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <div class="down-content">
 							<h4>Blueberry Cheesecake</h4>
 							<h6>$7.00</h6>
-							<p>Blended aroma of sweet graham cracker crumbs and juicy blueberries. Now in colored wax melts!</p>
+							<p>Blended aroma of sweet graham cracker crumbs and juicy blueberries.</p>
 							<p><b>Top Notes:</b> Cinnamon<br><b>Middle:</b> Blueberry<br><b>Base:</b> Vanilla, Graham Cracker</p>
 							<p>6 oz (170 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -150,7 +150,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <div class="down-content">
 							<h4>Caribbean Teakwood</h4>
 							<h6>$7.00</h6>
-							<p>Spicy top notes of ginger and spice infused with sandalwood and amber. Now in colored wax melts!</p>
+							<p>Spicy top notes of ginger and spice infused with sandalwood and amber.</p>
 							<p><b>Top Notes:</b> Allspice, Leather<br><b>Middle:</b> Teakwood, Clove<br><b>Base:</b> Amber, Sandalwood</p>
 							<p>6 oz (170 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -168,7 +168,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <div class="down-content">
 							<h4>Cashmere Plum</h4>
 							<h6>$7.00</h6>
-							<p>Mixed cozy warmth of dark plum, sweet sugar, and earthy feesia. Now in colored wax melts!</p>
+							<p>Mixed cozy warmth of dark plum, sweet sugar, and earthy feesia.</p>
 							<p><b>Top Notes:</b> Citrus<br><b>Middle:</b> Black Cherry, Plum<br><b>Base:</b> Vanilla, Sugar, Amber</p>
 							<p>6 oz (170 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -182,11 +182,24 @@ https://templatemo.com/tm-546-sixteen-clothing
 					  </div>
 					  <div class="col-md-4">
 						<div class="product-item">
+						  <img src="assets/images/krakenMelt.jpg" alt="">
+						  <div class="down-content">
+							<h4>Kraken</h4>
+							<h6>$7.00</h6>
+							<p>Reminiscent of the deep, blue sea and the mighty Kraken protecting its depths.</p>
+							<p><b>Top Notes:</b> Ozone<br><b>Middle:</b> Eucalyptus, Plum, Sea Salt<br><b>Base:</b> Dark Musk, Sandalwood, Powder</p>
+							<p>6 oz (170 g)</p>
+							<p>Coming Soon!</p>
+						  </div>
+						</div>
+					  </div> 
+					  <div class="col-md-4">
+						<div class="product-item">
 						  <img src="assets/images/lpcMelt.jpg" alt="">
 						  <div class="down-content">
 							<h4>Lemon Pound Cake</h4>
 							<h6>$7.00</h6>
-							<p>Juicy lemon combined with a freshly baked gourmet cake. Now in colored wax melts!</p>
+							<p>Juicy lemon combined with a freshly baked gourmet cake.</p>
 							<p><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Butter<br><b>Base:</b> Sugar, Vanilla, Cake</p>
 							<p>6 oz (170 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -204,7 +217,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <div class="down-content">
 							<h4>Oakmoss & Amber</h4>
 							<h6>$7.00</h6>
-							<p>Grounded in oakmoss with hints of orange and lavender. Now in colored wax melts!</p>
+							<p>Grounded in oakmoss with hints of orange and lavender.</p>
 							<p><b>Top Notes:</b> Orange, Sage<br><b>Middle:</b> Lavender<br><b>Base:</b> Amber, Oakmoss</p>
 							<p>6 oz (170 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -218,11 +231,65 @@ https://templatemo.com/tm-546-sixteen-clothing
 					  </div>
 					  <div class="col-md-4">
 						<div class="product-item">
+						  <img src="assets/images/healingMelt.jpg" alt="">
+						  <div class="down-content">
+							<h4>Tablets of Healing</h4>
+							<h6>$7.00</h6>
+							<p>Restore health with individually colored tablets!</p>
+							<p><b>Top Notes:</b> Peppermint, Grapefruit<br><b>Middle:</b> Rhubarb, Pomegranate<br><b>Base:</b> Cedar, Rosemary</p>
+							<p>6 oz (170 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="A6TAPE6ZRYCL4">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/staminaMelt.jpg" alt="">
+						  <div class="down-content">
+							<h4>Tablets of Stamina</h4>
+							<h6>$7.00</h6>
+							<p>Restore stamina with individually colored tablets!</p>
+							<p><b>Top Notes:</b> Peppermint, Eucalyptus<br><b>Middle:</b> Cedar, Clove<br><b>Base:</b> Powder, Patchouli</p>
+							<p>6 oz (170 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="W4F5DPU5ESW26">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/magickaMelt.jpg" alt="">
+						  <div class="down-content">
+							<h4>Tablets of Magicka</h4>
+							<h6>$7.00</h6>
+							<p>Restore magicka with individually colored tablets!</p>
+							<p><b>Top Notes:</b> Lavender<br><b>Middle:</b> Chamomile, Sage, Rosemary<br><b>Base:</b> Cedar, Sandalwood</p>
+							<p>6 oz (170 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="JCJLDXXE42FJE">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
 						  <img src="assets/images/ssMelt.jpg" alt="">
 						  <div class="down-content">
 							<h4>Sea Salt & Orchid</h4>
 							<h6>$7.00</h6>
-							<p>Soothingly fresh with salty highlights and soft floral notes. Now in colored wax melts!</p>
+							<p>Soothingly fresh with salty highlights and soft floral notes.</p>
 							<p><b>Top Notes:</b> Ozone, Sea Salt<br><b>Middle:</b> Jasmine, Green Leaves, Lilies<br><b>Base:</b> Tonka Bean, Wood</p>
 							<p>6 oz (170 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -240,7 +307,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <div class="down-content">
 							<h4>Smoked Oud</h4>
 							<h6>$7.00</h6>
-							<p>Complex blend of incense, smoke, oud, amber, and musk. Now in colored wax melts!</p>
+							<p>Complex blend of incense, smoke, oud, amber, and musk.</p>
 							<p><b>Top Notes:</b> Incense<br><b>Middle:</b> Smoke<br><b>Base:</b> Oud, Leather, Musk, Amber</p>
 							<p>6 oz (170 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
