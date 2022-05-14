@@ -98,16 +98,45 @@ https://templatemo.com/tm-546-sixteen-clothing
       </div>
     </div>
 
-    
     <div class="latest-products">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Seas the Day Collection - Coming Soon!</h2>
+              <h2>Seas the Day Collection</h2>
 			  <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
+
+
+
+   		<div class="latest-products">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="product-item">
+						  <img src="assets/images/orange.jpg" alt="">
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="product-item">
+						  <img src="assets/images/yellow.jpg" alt="">
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="product-item">
+						  <img src="assets/images/blue.jpg" alt="">
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="product-item">
+						  <img src="assets/images/pink.jpg" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
                     <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/bay_breeze.jpg" alt="">
