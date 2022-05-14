@@ -183,7 +183,12 @@ https://templatemo.com/tm-546-sixteen-clothing
                           <h6>$15.00</h6>
                           <p>Spicy top notes of ginger and spice infused with sandalwood and amber.<br><br><b>Top Notes:</b> Allspice, Leather<br><b>Middle:</b> Teakwood, Clove<br><b>Base:</b> Amber, Sandalwood</p>
 						  <p>8.5 oz (241 g)</p>
-						  <p>SOLD OUT! WILL RESTOCK SOON!</p>
+						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="DC3N2V59EE76G">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
                         </div>
                       </div>
                     </div>
@@ -292,6 +297,19 @@ https://templatemo.com/tm-546-sixteen-clothing
                         </div>
                       </div>
                     </div>
+					<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/peach_nectar.png" alt="">
+						  <div class="down-content">
+							<h4>Peach Nectar</h4>
+							<h6>$15.00</h6>
+							<p>Juicy, rich, sultry peach with a hint of tropics!</p>
+							<p><b>Top Notes:</b> Raspberry, Mandarin<br><b>Middle:</b> Plum, Peach, Violet<br><b>Base:</b> Sugar, Vanilla</p>
+							<p>8.5 oz (241 g)</p>
+							<p>Coming Soon!</p>
+						  </div>
+						</div>
+					  </div>
 					<div class="col-md-4">
                       <div class="product-item">
                         <img src="assets/images/plumeria.jpg" alt="">
