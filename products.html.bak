@@ -137,7 +137,12 @@ https://templatemo.com/tm-546-sixteen-clothing
                           <h6>$15.00</h6>
                           <p>Mossy, marine scent reminiscent of high-end cologne.<br><br><b>Top Notes:</b> Camphor, Marine<br><b>Middle:</b> Bamboo, Lavender<br><b>Base:</b> Dark Musk, Amber</p>
 						  <p>8.5 oz (241 g)</p>
-						  <p>Coming Soon!</p>
+						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="FR92L8EU85Z5J">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
                         </div>
                       </div>
                     </div>
@@ -252,7 +257,12 @@ https://templatemo.com/tm-546-sixteen-clothing
                           <h6>$15.00</h6>
                           <p>Wrap the water, sand, and salt together in one clean, aromatic scent.<br><br><b>Top Notes:</b> Citrus, Ozone<br><b>Middle:</b> Jasmine, Sea Salt<br><b>Base:</b> Cedar, Powder, Light Musk</p>
 						  <p>8.5 oz (241 g)</p>
-						  <p>SOLD OUT! WILL RESTOCK SOON!</p>
+						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="UQDC5BAFW2QRU">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
                         </div>
                       </div>
                     </div>
@@ -264,7 +274,12 @@ https://templatemo.com/tm-546-sixteen-clothing
                           <h6>$15.00</h6>
                           <p>Juicy lemon combined with a freshly baked gourmet cake.<br><br><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Butter<br><b>Base:</b> Sugar, Vanilla, Cake</p>
 						  <p>8.5 oz (241 g)</p>
-						  <p>SOLD OUT! WILL RESTOCK SOON!</p>
+						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="MFYXP9L32SN9S">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
                         </div>
                       </div>
                     </div>
@@ -276,7 +291,12 @@ https://templatemo.com/tm-546-sixteen-clothing
                           <h6>$15.00</h6>
                           <p>Dusty pages from leather-bound novels sitting on mahogany shelves.<br><br><b>Top Notes:</b> Teakwood<br><b>Middle:</b> Leather, Cedar<br><b>Base:</b> Dark Musk, Sandalwood, Patchouli</p>
 						  <p>8.5 oz (241 g)</p>
-						  <p>SOLD OUT! WILL RESTOCK SOON!</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="C97SVRETL4E9E">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
                         </div>
                       </div>
                     </div>
@@ -306,7 +326,12 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<p>Juicy, rich, sultry peach with a hint of tropics!</p>
 							<p><b>Top Notes:</b> Raspberry, Mandarin<br><b>Middle:</b> Plum, Peach, Violet<br><b>Base:</b> Sugar, Vanilla</p>
 							<p>8.5 oz (241 g)</p>
-							<p>Coming Soon!</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="CME6G9KU5FXZJ">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
@@ -361,6 +386,19 @@ https://templatemo.com/tm-546-sixteen-clothing
                         </div>
                       </div>
                     </div>
+					<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/strawberry_shortcake.png" alt="">
+						  <div class="down-content">
+							<h4>Strawberry Shortcake</h4>
+							<h6>$15.00</h6>
+							<p>Mouthwatering strawberry resting on a rich base of vanilla, cream, & sugar.</p>
+							<p><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Butter<br><b>Base:</b> Sugar, Vanilla, Cake</p>
+							<p>8.5 oz (241 g)</p>
+							<p>Coming Soon!</p>
+						  </div>
+						</div>
+					  </div>
 					
 					
 					<div class="col-md-12">
@@ -852,7 +890,12 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<p>Restore 50 points of health</p>
 							<p><b>Top Notes:</b> Peppermint, Grapefruit<br><b>Middle:</b> Rhubarb, Pomegranate<br><b>Base:</b> Cedar, Rosemary</p>
 							<p>8.5 oz (241 g)</p>
-							<p>SOLD OUT! WILL RESTOCK SOON!</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="ADH2JVU3YMCDL">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>

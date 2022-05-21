@@ -109,18 +109,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 			  <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
-                    <!-- <div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/minor_healing.png" alt="">
-						  <div class="down-content">
-							<h4>Potion of Minor Healing</h4></a>
-							<h6>$7.00</h6>
-							<p>Restore 25 points of health</p>
-							<p><b>Top Notes:</b> Peppermint, Grapefruit<br><b>Middle:</b> Rhubarb, Pomegranate<br><b>Base:</b> Cedar, Rosemary</p>
-							<p>4 oz (113 g)</p>
-						  </div>
-						</div>
-					  </div> -->
+                    
 					  <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/healing.jpg" alt="">
@@ -130,39 +119,16 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<p>Restore 50 points of health</p>
 							<p><b>Top Notes:</b> Peppermint, Grapefruit<br><b>Middle:</b> Rhubarb, Pomegranate<br><b>Base:</b> Cedar, Rosemary</p>
 							<p>8.5 oz (241 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<p>SOLD OUT! WILL RESTOCK SOON!</p>
+							<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="ADH2JVU3YMCDL">
 							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
+							</form> -->
 						  </div>
 						</div>
 					  </div>
-					  <!-- <div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/ultimate_healing.png" alt="">
-						  <div class="down-content">
-							<h4>Potion of Ultimate Healing</h4></a>
-							<h6>$28.00</h6>
-							<p>Completely restore health</p>
-							<p><b>Top Notes:</b> Peppermint, Grapefruit<br><b>Middle:</b> Rhubarb, Pomegranate<br><b>Base:</b> Cedar, Rosemary</p>
-							<p>16 oz (453 g)</p>
-						  </div>
-						</div>
-					  </div>
-                    <div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/minor_stamina.png" alt="">
-						  <div class="down-content">
-							<h4>Potion of Minor Stamina	</h4></a>
-							<h6>$7.00</h6>
-							<p>Restore 25 points of stamina</p>
-							<p><b>Top Notes:</b> Peppermint, Eucalyptus<br><b>Middle:</b> Cedar, Clove<br><b>Base:</b> Powder, Patchouli</p>
-							<p>4 oz (113 g)</p>
-						  </div>
-						</div>
-					  </div> -->
 					  <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/stamina.jpg" alt="">
@@ -181,30 +147,6 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					  <!-- <div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/ultimate_stamina.png" alt="">
-						  <div class="down-content">
-							<h4>Potion of Ultimate Stamina</h4></a>
-							<h6>$28.00</h6>
-							<p>Completely restore stamina</p>
-							<p><b>Top Notes:</b> Peppermint, Eucalyptus<br><b>Middle:</b> Cedar, Clove<br><b>Base:</b> Powder, Patchouli</p>
-							<p>16 oz (453 g)</p>
-						  </div>
-						</div>
-					  </div>
-                    <div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/minor_magicka.png" alt="">
-						  <div class="down-content">
-							<h4>Potion of Minor Magicka</h4></a>
-							<h6>$7.00</h6>
-							<p>Restore 25 points of magicka</p>
-							<p><b>Top Notes:</b> Green Leaves, Marine<br><b>Middle:</b> Lavender, Sage<br><b>Base:</b> Cypress, Amber, Cedar</p>
-							<p>4 oz (113 g)</p>
-						  </div>
-						</div>
-					  </div> -->
 					  <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/magicka.jpg" alt="">
@@ -222,19 +164,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 							</form>
 						  </div>
 						</div>
-					  </div>
-					  <!-- <div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/ultimate_magicka.png" alt="">
-						  <div class="down-content">
-							<h4>Potion of Ultimate Magicka</h4></a>
-							<h6>$28.00</h6>
-							<p>Completely restore magicka</p>
-							<p><b>Top Notes:</b> Green Leaves, Marine<br><b>Middle:</b> Lavender, Sage<br><b>Base:</b> Cypress, Amber, Cedar</p>
-							<p>16 oz (453 g)</p>
-						  </div>
-						</div>
-					  </div> -->				  
+					  </div>			  
          </div>
       </div>
     </div>
