@@ -319,7 +319,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                     </div>
 					<div class="col-md-4">
 						<div class="product-item">
-						  <img src="assets/images/peach_nectar.png" alt="">
+						  <img src="assets/images/peach_nectar.jpg" alt="">
 						  <div class="down-content">
 							<h4>Peach Nectar</h4>
 							<h6>$15.00</h6>
@@ -388,14 +388,19 @@ https://templatemo.com/tm-546-sixteen-clothing
                     </div>
 					<div class="col-md-4">
 						<div class="product-item">
-						  <img src="assets/images/strawberry_shortcake.png" alt="">
+						  <img src="assets/images/strawberry_shortcake.jpg" alt="">
 						  <div class="down-content">
 							<h4>Strawberry Shortcake</h4>
 							<h6>$15.00</h6>
 							<p>Mouthwatering strawberry resting on a rich base of vanilla, cream, & sugar.</p>
 							<p><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Butter<br><b>Base:</b> Sugar, Vanilla, Cake</p>
 							<p>8.5 oz (241 g)</p>
-							<p>Coming Soon!</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="BTK3XYDN2CRXG">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
