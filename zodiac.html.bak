@@ -69,7 +69,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 			  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
 				<input type="hidden" name="cmd" value="_s-xclick">
 				<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIG1QYJKoZIhvcNAQcEoIIGxjCCBsICAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYA/22EoBGB8VUjx+zabJ/Kj0NDAIAuBE+UAk7D7Qzxi30QNFr5lud3Yb7HZHLBOzlCg2/P9t4pehlaU3di1QfpLhYPDCCGzcKi7MLGUVSR+5UU5gJnhvoNLxOdSt08S2n4/A86jfbFuZ0+fEyihPj/4SNRRtU2dXIDbdaU0Tg79GzELMAkGBSsOAwIaBQAwUwYJKoZIhvcNAQcBMBQGCCqGSIb3DQMHBAhlzpxFI9tvHYAwDC9eIyk3jREX99KDchuQNpOmr1bJVONsecRtQeeOcO22eFz+mCdeyZM7sbtklYfYoIIDhzCCA4MwggLsoAMCAQICAQAwDQYJKoZIhvcNAQEFBQAwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMB4XDTA0MDIxMzEwMTMxNVoXDTM1MDIxMzEwMTMxNVowgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBR07d/ETMS1ycjtkpkvjXZe9k+6CieLuLsPumsJ7QC1odNz3sJiCbs2wC0nLE0uLGaEtXynIgRqIddYCHx88pb5HTXv4SZeuv0Rqq4+axW9PLAAATU8w04qqjaSXgbGLP3NmohqM6bV9kZZwZLR/klDaQGo1u9uDb9lr4Yn+rBQIDAQABo4HuMIHrMB0GA1UdDgQWBBSWn3y7xm8XvVk/UtcKG+wQ1mSUazCBuwYDVR0jBIGzMIGwgBSWn3y7xm8XvVk/UtcKG+wQ1mSUa6GBlKSBkTCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb22CAQAwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOBgQCBXzpWmoBa5e9fo6ujionW1hUhPkOBakTr3YCDjbYfvJEiv/2P+IobhOGJr85+XHhN0v4gUkEDI8r2/rNk1m0GA8HKddvTjyGw/XqXa+LSTlDYkqI8OwR8GEYj4efEtcRpRYBxV8KxAW93YDWzFGvruKnnLbDAF6VR5w/cCMn5hzGCAZowggGWAgEBMIGUMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbQIBADAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjIwMTEzMTYzMTAxWjAjBgkqhkiG9w0BCQQxFgQUhGL1QINgdvgHiouRO8AEJ7j8M8swDQYJKoZIhvcNAQEBBQAEgYCwl8vdQWOd+Xgu2yKEJJZgSK+MerpRWmoQd3SG3+kh5Httkj/KaOLhiXQ4LVbP06fg9xQOD4cqwDYw1gWt1kXBVW8oW8FHXKWB2APBdy0jhWFBVyMwOChzf9y6dOAEfmlVoM5kWFYLZGH1JLoH1Ajoe9p0UggY39bFvHrV3AHBOg==-----END PKCS7-----">
-				<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+				<input type="image" src="assets/images/viewcart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="30">
 				<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 				</form>
 				</li>
@@ -103,16 +103,48 @@ https://templatemo.com/tm-546-sixteen-clothing
 						<div class="product-item">
 						  <img src="assets/images/aries.png" alt="">
 						  <div class="down-content">
-							<h4>Aries</h4>
-							<h6>The Ram</h6>
+							<h4>Aries - The Ram</h4>
+							<h6>$15.00</h6>
 							<p>Element: Fire<br>Ruling Planet: Mars<br>Brave, independent, assertive, impulsive, impatient</p>
 							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
 							<p>8.5 oz (241 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+								<input type="hidden" name="cmd" value="_s-xclick">
+								<input type="hidden" name="hosted_button_id" value="6KXSKXLUGXNTJ">
+								<table>
+								<tr><td><input type="hidden" name="on0" value="Scents">Scents</td></tr><tr><td><select name="os0">
+									<option value="Black Coral & Moss">Black Coral & Moss </option>
+									<option value="Blood Orange">Blood Orange </option>
+									<option value="Caribbean Teakwood">Caribbean Teakwood </option>
+									<option value="Cashmere Plum">Cashmere Plum </option>
+									<option value="High Tide">High Tide </option>
+									<option value="Lemon Pound Cake">Lemon Pound Cake </option>
+									<option value="Library">Library </option>
+									<option value="Mahogany Shea">Mahogany Shea </option>
+									<option value="Peach Nectar">Peach Nectar </option>
+									<option value="Strawberry Shortcake">Strawberry Shortcake </option>
+								</select> </td></tr>
+								</table>
+								<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+								<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+								</form>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/taurus.png" alt="">
+						  <div class="down-content">
+							<h4>Taurus - The Bull</h4>
+							<h6>$15.00</h6>
+							<p>Element: Earth<br>Ruling Planet: Venus<br>Patient, reliable, loyal, stubborn, self-indulging</p>
+							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
+							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="6KXSKXLUGXNTJ">
+							<input type="hidden" name="hosted_button_id" value="RBGD8D63R6V74">
 							<table>
-							<tr><td><input type="hidden" name="on0" value="Scents">Scents<br></td></tr><tr><td><select name="os0">
+							<tr><td><input type="hidden" name="on0" value="Scents">Scents</td></tr><tr><td><select name="os0">
 								<option value="Black Coral & Moss">Black Coral & Moss </option>
 								<option value="Blood Orange">Blood Orange </option>
 								<option value="Caribbean Teakwood">Caribbean Teakwood </option>
@@ -124,8 +156,8 @@ https://templatemo.com/tm-546-sixteen-clothing
 								<option value="Peach Nectar">Peach Nectar </option>
 								<option value="Strawberry Shortcake">Strawberry Shortcake </option>
 							</select> </td></tr>
-							</table><br>
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							</table>
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 							</form>
 						  </div>
@@ -133,25 +165,33 @@ https://templatemo.com/tm-546-sixteen-clothing
 					  </div>
 					  <div class="col-md-4">
 						<div class="product-item">
-						  <img src="assets/images/taurus.png" alt="">
-						  <div class="down-content">
-							<h4>Taurus</h4>
-							<h6>The Bull</h6>
-							<p>Element: Earth<br>Ruling Planet: Venus<br>Patient, reliable, loyal, stubborn, self-indulging</p>
-							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
-							<p>8.5 oz (241 g)</p>
-						  </div>
-						</div>
-					  </div>
-					  <div class="col-md-4">
-						<div class="product-item">
 						  <img src="assets/images/gemini.png" alt="">
 						  <div class="down-content">
-							<h4>Gemini</h4>
-							<h6>The Twins</h6>
+							<h4>Gemini - The Twins</h4>
+							<h6>$15.00</h6>
 							<p>Element: Air<br>Ruling Planet: Mercury<br>Dynamic, energetic, imaginative, superficial, mischievous</p>
 							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="U28R4554SNX8S">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Scents">Scents</td></tr><tr><td><select name="os0">
+								<option value="Black Coral & Moss">Black Coral & Moss </option>
+								<option value="Blood Orange">Blood Orange </option>
+								<option value="Caribbean Teakwood">Caribbean Teakwood </option>
+								<option value="Cashmere Plum">Cashmere Plum </option>
+								<option value="High Tide">High Tide </option>
+								<option value="Lemon Pound Cake">Lemon Pound Cake </option>
+								<option value="Library">Library </option>
+								<option value="Mahogany Shea">Mahogany Shea </option>
+								<option value="Peach Nectar">Peach Nectar </option>
+								<option value="Strawberry Shortcake">Strawberry Shortcake </option>
+							</select> </td></tr>
+							</table>
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
@@ -159,11 +199,31 @@ https://templatemo.com/tm-546-sixteen-clothing
 						<div class="product-item">
 						  <img src="assets/images/cancer.png" alt="">
 						  <div class="down-content">
-							<h4>Cancer</h4>
-							<h6>The Crab</h6>
+							<h4>Cancer - The Crab</h4>
+							<h6>$15.00</h6>
 							<p>Element: Water<br>Ruling Planet: The Moon<br>Considerate, practical, loyal, enigmatic, self-pitying</p>
 							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="9JRGB2H69ERL8">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Scents">Scents</td></tr><tr><td><select name="os0">
+								<option value="Black Coral & Moss">Black Coral & Moss </option>
+								<option value="Blood Orange">Blood Orange </option>
+								<option value="Caribbean Teakwood">Caribbean Teakwood </option>
+								<option value="Cashmere Plum">Cashmere Plum </option>
+								<option value="High Tide">High Tide </option>
+								<option value="Lemon Pound Cake">Lemon Pound Cake </option>
+								<option value="Library">Library </option>
+								<option value="Mahogany Shea">Mahogany Shea </option>
+								<option value="Peach Nectar">Peach Nectar </option>
+								<option value="Strawberry Shortcake">Strawberry Shortcake </option>
+							</select> </td></tr>
+							</table>
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
@@ -171,11 +231,31 @@ https://templatemo.com/tm-546-sixteen-clothing
 						<div class="product-item">
 						  <img src="assets/images/leo.png" alt="">
 						  <div class="down-content">
-							<h4>Leo</h4>
-							<h6>The Lion</h6>
+							<h4>Leo - The Lion</h4>
+							<h6>$15.00</h6>
 							<p>Element: Fire<br>Ruling Planet: The Sun<br>Creative, confident, friendly, domineering, vain</p>
 							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="2G3KE3ZEMRHRE">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Scents">Scents</td></tr><tr><td><select name="os0">
+								<option value="Black Coral & Moss">Black Coral & Moss </option>
+								<option value="Blood Orange">Blood Orange </option>
+								<option value="Caribbean Teakwood">Caribbean Teakwood </option>
+								<option value="Cashmere Plum">Cashmere Plum </option>
+								<option value="High Tide">High Tide </option>
+								<option value="Lemon Pound Cake">Lemon Pound Cake </option>
+								<option value="Library">Library </option>
+								<option value="Mahogany Shea">Mahogany Shea </option>
+								<option value="Peach Nectar">Peach Nectar </option>
+								<option value="Strawberry Shortcake">Strawberry Shortcake </option>
+							</select> </td></tr>
+							</table>
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
@@ -183,11 +263,31 @@ https://templatemo.com/tm-546-sixteen-clothing
 						<div class="product-item">
 						  <img src="assets/images/virgo.png" alt="">
 						  <div class="down-content">
-							<h4>Virgo</h4>
-							<h6>The Virgin</h6>
+							<h4>Virgo - The Virgin</h4>
+							<h6>$15.00</h6>
 							<p>Element: Earth<br>Ruling Planet: Mercury<br>Observant, helpful, precise, skeptical, inflexible</p>
 							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="TH26VUSHFDU8A">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Scents">Scents</td></tr><tr><td><select name="os0">
+								<option value="Black Coral & Moss">Black Coral & Moss </option>
+								<option value="Blood Orange">Blood Orange </option>
+								<option value="Caribbean Teakwood">Caribbean Teakwood </option>
+								<option value="Cashmere Plum">Cashmere Plum </option>
+								<option value="High Tide">High Tide </option>
+								<option value="Lemon Pound Cake">Lemon Pound Cake </option>
+								<option value="Library">Library </option>
+								<option value="Mahogany Shea">Mahogany Shea </option>
+								<option value="Peach Nectar">Peach Nectar </option>
+								<option value="Strawberry Shortcake">Strawberry Shortcake </option>
+							</select> </td></tr>
+							</table>
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
@@ -195,11 +295,31 @@ https://templatemo.com/tm-546-sixteen-clothing
 						<div class="product-item">
 						  <img src="assets/images/libra.png" alt="">
 						  <div class="down-content">
-							<h4>Libra</h4>
-							<h6>The Scales</h6>
+							<h4>Libra - The Scales</h4>
+							<h6>$15.00</h6>
 							<p>Element: Air<br>Ruling Planet: Venus<br>Adventurous, diplomatic, charming, indecisive, self-indulgent</p>
 							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="AWUGYYELC587N">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Scents">Scents</td></tr><tr><td><select name="os0">
+								<option value="Black Coral & Moss">Black Coral & Moss </option>
+								<option value="Blood Orange">Blood Orange </option>
+								<option value="Caribbean Teakwood">Caribbean Teakwood </option>
+								<option value="Cashmere Plum">Cashmere Plum </option>
+								<option value="High Tide">High Tide </option>
+								<option value="Lemon Pound Cake">Lemon Pound Cake </option>
+								<option value="Library">Library </option>
+								<option value="Mahogany Shea">Mahogany Shea </option>
+								<option value="Peach Nectar">Peach Nectar </option>
+								<option value="Strawberry Shortcake">Strawberry Shortcake </option>
+							</select> </td></tr>
+							</table>
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>	
@@ -207,11 +327,31 @@ https://templatemo.com/tm-546-sixteen-clothing
 						<div class="product-item">
 						  <img src="assets/images/scorpio.png" alt="">
 						  <div class="down-content">
-							<h4>Scorpio</h4>
-							<h6>The Scorpion</h6>
+							<h4>Scorpio - The Scorpion</h4>
+							<h6>$15.00</h6>
 							<p>Element: Water<br>Ruling Planet: Pluto<br>Determined, intuitive, passionate, compulsive, secretive</p>
 							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="MEVY53T5BUN7L">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Scents">Scents</td></tr><tr><td><select name="os0">
+								<option value="Black Coral & Moss">Black Coral & Moss </option>
+								<option value="Blood Orange">Blood Orange </option>
+								<option value="Caribbean Teakwood">Caribbean Teakwood </option>
+								<option value="Cashmere Plum">Cashmere Plum </option>
+								<option value="High Tide">High Tide </option>
+								<option value="Lemon Pound Cake">Lemon Pound Cake </option>
+								<option value="Library">Library </option>
+								<option value="Mahogany Shea">Mahogany Shea </option>
+								<option value="Peach Nectar">Peach Nectar </option>
+								<option value="Strawberry Shortcake">Strawberry Shortcake </option>
+							</select> </td></tr>
+							</table>
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
@@ -219,11 +359,31 @@ https://templatemo.com/tm-546-sixteen-clothing
 						<div class="product-item">
 						  <img src="assets/images/sagittarius.png" alt="">
 						  <div class="down-content">
-							<h4>Sagittarius</h4>
-							<h6>The Archer</h6>
+							<h4>Sagittarius - The Archer</h4>
+							<h6>$15.00</h6>
 							<p>Element: Fire<br>Ruling Planet: Jupiter<br>Optimistic, good-humored, straightforward, careless, tactless</p>
 							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+								<input type="hidden" name="cmd" value="_s-xclick">
+								<input type="hidden" name="hosted_button_id" value="9WHXAYXRL98A2">
+								<table>
+								<tr><td><input type="hidden" name="on0" value="Scents">Scents</td></tr><tr><td><select name="os0">
+									<option value="Black Coral & Moss">Black Coral & Moss </option>
+									<option value="Blood Orange">Blood Orange </option>
+									<option value="Caribbean Teakwood">Caribbean Teakwood </option>
+									<option value="Cashmere Plum">Cashmere Plum </option>
+									<option value="High Tide">High Tide </option>
+									<option value="Lemon Pound Cake">Lemon Pound Cake </option>
+									<option value="Library">Library </option>
+									<option value="Mahogany Shea">Mahogany Shea </option>
+									<option value="Peach Nectar">Peach Nectar </option>
+									<option value="Strawberry Shortcake">Strawberry Shortcake </option>
+								</select> </td></tr>
+								</table>
+								<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+								<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+								</form>
 						  </div>
 						</div>
 					  </div>
@@ -231,11 +391,31 @@ https://templatemo.com/tm-546-sixteen-clothing
 						<div class="product-item">
 						  <img src="assets/images/capricorn.png" alt="">
 						  <div class="down-content">
-							<h4>Capricorn</h4>
-							<h6>The Goat</h6>
+							<h4>Capricorn - The Goat</h4>
+							<h6>$15.00</h6>
 							<p>Element: Earth<br>Ruling Planet: Saturn<br>Practical, disciplined, ambitious, pessimistic, stubborn</p>
 							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="DVQ8GX577BH3U">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Scents">Scents</td></tr><tr><td><select name="os0">
+								<option value="Black Coral & Moss">Black Coral & Moss </option>
+								<option value="Blood Orange">Blood Orange </option>
+								<option value="Caribbean Teakwood">Caribbean Teakwood </option>
+								<option value="Cashmere Plum">Cashmere Plum </option>
+								<option value="High Tide">High Tide </option>
+								<option value="Lemon Pound Cake">Lemon Pound Cake </option>
+								<option value="Library">Library </option>
+								<option value="Mahogany Shea">Mahogany Shea </option>
+								<option value="Peach Nectar">Peach Nectar </option>
+								<option value="Strawberry Shortcake">Strawberry Shortcake </option>
+							</select> </td></tr>
+							</table>
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
@@ -243,11 +423,31 @@ https://templatemo.com/tm-546-sixteen-clothing
 						<div class="product-item">
 						  <img src="assets/images/aquarius.png" alt="">
 						  <div class="down-content">
-							<h4>Aquarius</h4>
-							<h6>The Water Bearer</h6>
+							<h4>Aquarius - Water Bearer</h4>
+							<h6>$15.00</h6>
 							<p>Element: Air<br>Ruling Planet: Uranus<br>Humanitarian, independent, intellectual, distant, intractable</p>
 							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="AC62EMFX7ZLLG">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Scents">Scents</td></tr><tr><td><select name="os0">
+								<option value="Black Coral & Moss">Black Coral & Moss </option>
+								<option value="Blood Orange">Blood Orange </option>
+								<option value="Caribbean Teakwood">Caribbean Teakwood </option>
+								<option value="Cashmere Plum">Cashmere Plum </option>
+								<option value="High Tide">High Tide </option>
+								<option value="Lemon Pound Cake">Lemon Pound Cake </option>
+								<option value="Library">Library </option>
+								<option value="Mahogany Shea">Mahogany Shea </option>
+								<option value="Peach Nectar">Peach Nectar </option>
+								<option value="Strawberry Shortcake">Strawberry Shortcake </option>
+							</select> </td></tr>
+							</table>
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
@@ -260,6 +460,26 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<p>Element: Water<br>Ruling Planet: Neptune<br>Imaginative, compassionate, selfless, escapist, weak-willed</p>
 							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
 							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="LZ2BTF8ELKECN">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Scents">Scents</td></tr><tr><td><select name="os0">
+								<option value="Black Coral & Moss">Black Coral & Moss </option>
+								<option value="Blood Orange">Blood Orange </option>
+								<option value="Caribbean Teakwood">Caribbean Teakwood </option>
+								<option value="Cashmere Plum">Cashmere Plum </option>
+								<option value="High Tide">High Tide </option>
+								<option value="Lemon Pound Cake">Lemon Pound Cake </option>
+								<option value="Library">Library </option>
+								<option value="Mahogany Shea">Mahogany Shea </option>
+								<option value="Peach Nectar">Peach Nectar </option>
+								<option value="Strawberry Shortcake">Strawberry Shortcake </option>
+							</select> </td></tr>
+							</table>
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>					  
