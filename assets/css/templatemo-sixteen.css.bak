@@ -360,7 +360,7 @@ header .navbar {
 	color: #ff1616;
 	font-size: 18px;
 	line-height: 26px;
-	font-family: 'FontAwesome';
+	font-family: 'efco_brookshire_regularRg';
 }
 
 
