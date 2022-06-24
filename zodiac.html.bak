@@ -124,7 +124,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 									<option value="Peach Nectar">Peach Nectar </option>
 									<option value="Strawberry Shortcake">Strawberry Shortcake </option>
 								</select> </td></tr>
-								</table>
+								</table><br>
 								<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
 								<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 								</form>
@@ -156,7 +156,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 								<option value="Peach Nectar">Peach Nectar </option>
 								<option value="Strawberry Shortcake">Strawberry Shortcake </option>
 							</select> </td></tr>
-							</table>
+							</table><br>
 							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 							</form>
@@ -455,8 +455,8 @@ https://templatemo.com/tm-546-sixteen-clothing
 						<div class="product-item">
 						  <img src="assets/images/pisces.png" alt="">
 						  <div class="down-content">
-							<h4>Pisces</h4>
-							<h6>The Fishes</h6>
+							<h4>Pisces - The Fishes</h4>
+							<h6>$15.00</h6>
 							<p>Element: Water<br>Ruling Planet: Neptune<br>Imaginative, compassionate, selfless, escapist, weak-willed</p>
 							<p>Choose your own fragrance in this one-of-a-kind galaxy candle!</p>
 							<p>8.5 oz (241 g)</p>
