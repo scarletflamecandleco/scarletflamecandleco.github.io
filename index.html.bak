@@ -26,7 +26,7 @@ https://templatemo.com/tm-546-sixteen-clothing
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-sixteen.css">
     <link rel="stylesheet" href="assets/css/owl.css">
-	<link rel="stylesheet" href="assets/css/stylesheet.css" type="text/css" charset="utf-8" />
+	<link rel="stylesheet" href="assets/css/stylesheet.css" type="text/css" charset="utf-8">
 
   </head>
 
@@ -123,26 +123,8 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Scent Collections</h2>
+              <h2>Signature Collections</h2>
               <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
-            </div>
-          </div>
-		  <div class="col-md-4">
-            <div class="product-item">
-              <a href="potions.html"><img src="assets/images/potions_all.jpg" alt=""></a>
-              <div class="down-content">
-                <a href="potions.html"><h4>Potion Collection</h4></a>
-                <p>Take these potions along for adventuring in our potion collection.</p>
-              </div>
-            </div>
-          </div>
-		  <div class="col-md-4">
-            <div class="product-item">
-              <a href="elemental.html"><img src="assets/images/elemental.jpg" alt=""></a>
-              <div class="down-content">
-                <a href="elemental.html"><h4>Mythical Creatures Collection</h4></a>
-                <p>The four elements come together in our Elemental Mythical Creatures collection.</p>
-              </div>
             </div>
           </div>
           <div class="col-md-4">
@@ -183,15 +165,6 @@ https://templatemo.com/tm-546-sixteen-clothing
           </div>
 		  <div class="col-md-4">
             <div class="product-item">
-              <a href="seastheday.html"><img src="assets/images/summer.jpg" alt=""></a>
-              <div class="down-content">
-                <a href="seastheday.html"><h4>Seas the Day Collection</h4></a>
-                <p>Escape to a tropical paradise with our summer collection.</p>
-              </div>
-            </div>
-          </div>
-		  <div class="col-md-4">
-            <div class="product-item">
               <a href="sweet.html"><img src="assets/images/sweet.png" alt=""></a>
               <div class="down-content">
                 <a href="sweet.html"><h4>Sweet Collection</h4></a>
@@ -201,6 +174,36 @@ https://templatemo.com/tm-546-sixteen-clothing
           </div>
 		  <div class="col-md-4">
             <div class="product-item">
+              <a href="melts.html"><img src="assets/images/melt_heading.jpg" alt=""></a>
+              <div class="down-content">
+                <a href="melts.html"><h4>Wax Melt Collection</h4></a>
+                <p>Many of your favorite scents now offered in colored wax melts!</p>
+              </div>
+            </div>
+          </div>
+		 </div>
+		</div>
+	</div>
+	    <div class="latest-products">
+      <div class="container">
+        <div class="row">
+		  <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Seasonal & Fantastical collections</h2>
+              <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
+            </div>
+          </div>
+		  <div class="col-md-5">
+            <div class="product-item">
+              <a href="seastheday.html"><img src="assets/images/summer.jpg" alt=""></a>
+              <div class="down-content">
+                <a href="seastheday.html"><h4>Summer Collection</h4></a>
+                <p>Escape to a tropical paradise with our summer collection.</p>
+              </div>
+            </div>
+          </div>
+		  <div class="col-md-5">
+            <div class="product-item">
               <a href="somethingwicked.html"><img src="assets/images/sorting_candle.jpg" alt=""></a>
               <div class="down-content">
                 <a href="somethingwicked.html"><h4>Something Wicked Collection</h4></a>
@@ -208,12 +211,22 @@ https://templatemo.com/tm-546-sixteen-clothing
               </div>
             </div>
           </div>
-		  <div class="col-md-4">
+
+		  		  <div class="col-md-5">
             <div class="product-item">
-              <a href="melts.html"><img src="assets/images/melt_heading.jpg" alt=""></a>
+              <a href="potions.html"><img src="assets/images/potions_all.jpg" alt=""></a>
               <div class="down-content">
-                <a href="melts.html"><h4>Wax Melt Collection</h4></a>
-                <p>Many of your favorite scents now offered in colored wax melts!</p>
+                <a href="potions.html"><h4>Potion Collection</h4></a>
+                <p>Take these potions along for adventuring in our potion collection.</p>
+              </div>
+            </div>
+          </div>
+		  <div class="col-md-5">
+            <div class="product-item">
+              <a href="elemental.html"><img src="assets/images/elemental.jpg" alt=""></a>
+              <div class="down-content">
+                <a href="elemental.html"><h4>Mythical Creatures Collection</h4></a>
+                <p>The four elements come together in our Elemental Mythical Creatures collection.</p>
               </div>
             </div>
           </div>
