@@ -193,7 +193,7 @@ https://templatemo.com/tm-546-sixteen-clothing
               <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
-		  <div class="col-md-5">
+		  <div class="col-md-4">
             <div class="product-item">
               <a href="seastheday.html"><img src="assets/images/summer.jpg" alt=""></a>
               <div class="down-content">
@@ -202,17 +202,35 @@ https://templatemo.com/tm-546-sixteen-clothing
               </div>
             </div>
           </div>
-		  <div class="col-md-5">
+		  <div class="col-md-4">
+            <div class="product-item">
+              <a href="autumn.html"><img src="assets/images/autumn.png" alt=""></a>
+              <div class="down-content">
+                <a href="autumn.html"><h4>Autumn Collection</h4></a>
+                <p>All your favorite autumn scents coming soon!</p>
+              </div>
+            </div>
+          </div>
+		  		  <div class="col-md-4">
+            <div class="product-item">
+              <a href="holiday.html"><img src="assets/images/holidaysq.png" alt=""></a>
+              <div class="down-content">
+                <a href="holiday.html"><h4>Holiday Collection</h4></a>
+                <p>All your favorite holiday scents coming soon!</p>
+              </div>
+            </div>
+          </div>
+		  <div class="col-md-4">
             <div class="product-item">
               <a href="somethingwicked.html"><img src="assets/images/sorting_candle.jpg" alt=""></a>
               <div class="down-content">
                 <a href="somethingwicked.html"><h4>Something Wicked Collection</h4></a>
-                <p>Uniquely scented and colored mystery candles.</p>
+                <p>Uniquely scented candles inspired by your favorite magical world!</p>
               </div>
             </div>
           </div>
 
-		  		  <div class="col-md-5">
+		  		  <div class="col-md-4">
             <div class="product-item">
               <a href="potions.html"><img src="assets/images/potions_all.jpg" alt=""></a>
               <div class="down-content">
@@ -221,7 +239,7 @@ https://templatemo.com/tm-546-sixteen-clothing
               </div>
             </div>
           </div>
-		  <div class="col-md-5">
+		  <div class="col-md-4">
             <div class="product-item">
               <a href="elemental.html"><img src="assets/images/elemental.jpg" alt=""></a>
               <div class="down-content">
