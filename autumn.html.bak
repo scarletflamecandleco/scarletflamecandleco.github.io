@@ -108,7 +108,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 			  <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
-                    <div class="col-md-4">
+                    <div class="col-md-6">
 						<div class="product-item">
 						  <img src="assets/images/apple_orchard.jpg" alt="">
 						  <div class="down-content">
@@ -126,7 +126,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					  <div class="col-md-4">
+					  <div class="col-md-6">
 						<div class="product-item">
 						  <img src="assets/images/pumpkin_patch.jpg" alt="">
 						  <div class="down-content">
@@ -144,7 +144,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					  <div class="col-md-4">
+					  <div class="col-md-6">
 						<div class="product-item">
 						  <img src="assets/images/fallen_leaves.jpg" alt="">
 						  <div class="down-content">
@@ -162,7 +162,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  </div>
 						</div>
 					  </div>
-					<div class="col-md-4">
+					<div class="col-md-6">
 						<div class="product-item">
 						  <img src="assets/images/toasted_marshmallow.jpg" alt="">
 						  <div class="down-content">
@@ -179,7 +179,25 @@ https://templatemo.com/tm-546-sixteen-clothing
 							</form>
 						  </div>
 						</div>
-					  </div> 	
+					  </div>
+						<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/tmMelt.jpg" alt="">
+						  <div class="down-content">
+							<h4>Toasted Marshmallow</h4>
+							<h6>$7.00</h6>
+							<p>Gather 'round the campfire and enjoy the aroma of sweet, toasted marshmallow.</p>
+							<p><b>Top Notes:</b> Sugar, Incense<br><b>Middle:</b> Cream, Honey, Smoke<br><b>Base:</b> Vanilla, Oud, Amber, Myrrh</p>
+							<p>6 oz (170 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="H8837NZLAHEVU">
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>					  
          </div>
       </div>
     </div>
