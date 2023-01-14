@@ -193,7 +193,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="GZT9WUZAJGR8A">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 							</form>
 						  </div>
@@ -272,7 +272,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/castle_grounds.jpg" alt="">
 						  <div class="down-content">
 							<h4>Castle Grounds</h4>
-							<h6>$15.00</h6>
+							<h6>$10.00</h6>
 							<p>Fresh and vibrant, this scent inspires cozy and reminiscent vibes.</p>
 							<p><b>Top Notes:</b> Bergamot<br><b>Middle:</b> Mahogany<br><b>Base:</b> Musk</p>
 							<p>8.5 oz (241 g)</p>
@@ -290,7 +290,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/chocolate_frogs.jpg" alt="">
 						  <div class="down-content">
 							<h4>Chocolate Frogs</h4>
-							<h6>$15.00</h6>
+							<h6>$10.00</h6>
 							<p>Delicious, decadent, and simply irresistible creamy milk chocolate.</p>
 							<p><b>Top Notes:</b> Sugar<br><b>Middle:</b> Cocoa<br><b>Base:</b> Vanilla</p>
 							<p>8.5 oz (241 g)</p>
@@ -308,7 +308,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/rock_cakes.jpg" alt="">
 						  <div class="down-content">
 							<h4>Rock Cakes & Tea</h4>
-							<h6>$15.00</h6>
+							<h6>$10.00</h6>
 							<p>The aroma of warm tea steeping beside fresh rock cakes.</p>
 							<p><b>Top Notes:</b> Lemon, Lime, Orange<br><b>Middle:</b> Rosewood<br><b>Base:</b> Vanilla, Tonka, Maple</p>
 							<p>8.5 oz (241 g)</p>

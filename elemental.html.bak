@@ -113,16 +113,16 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/phoenix.jpg" alt="">
 						  <div class="down-content">
 							<h4>Phoenix - Fire</h4></a>
-							<h6>$15.00</h6>
+							<h6>$7.50</h6>
 							<p>Fiery, potent blend of sweet, spicy, and earthy notes to symbolize a Phoenix rising from the ashes.</p>
 							<p><b>Top Notes:</b> Orange Blossom<br><b>Middle:</b> Clove, Patchouli, Cedar<br><b>Base:</b> Tonka Bean, Incense</p>
 							<p>8.5 oz (241 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="C4QMGJ8AK8FRE">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
+								<input type="hidden" name="cmd" value="_s-xclick">
+								<input type="hidden" name="hosted_button_id" value="C4QMGJ8AK8FRE">
+								<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+								<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+								</form>
 						  </div>
 						</div>
 					  </div>
@@ -131,7 +131,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/pegasus.jpg" alt="">
 						  <div class="down-content">
 							<h4>Pegasus - Air</h4></a>
-							<h6>$15.00</h6>
+							<h6>$7.50</h6>
 							<p>Brisk winds on a cool night reminiscent of the winged horse Pegasus taking flight.</p>
 							<p><b>Top Notes:</b> Lavender, Eucalyptus<br><b>Middle:</b> Bayberry, Cypress, Pine<br><b>Base:</b> Oakmoss, Peppercorn, Cedar, Rosemary</p>
 							<p>8.5 oz (241 g)</p>
@@ -149,14 +149,14 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/gargoyle.jpg" alt="">
 						  <div class="down-content">
 							<h4>Gargoyle - Earth</h4></a>
-							<h6>$15.00</h6>
+							<h6>$7.50</h6>
 							<p>Grounded and complex earth tones to ward away evil symbolic of the watchful Gargoyle.</p>
 							<p><b>Top Notes:</b> Orange, Sage<br><b>Middle:</b> Lavender<br><b>Base:</b> Tonka Bean, Amber, Oakmoss</p>
 							<p>8.5 oz (241 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="MSD93QTY7UBMQ">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 							</form>
 						  </div>
@@ -167,7 +167,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/kraken.jpg" alt="">
 						  <div class="down-content">
 							<h4>Kraken - Water</h4></a>
-							<h6>$15.00</h6>
+							<h6>$7.50</h6>
 							<p>Reminiscent of the deep, blue sea and the mighty Kraken protecting its depths.</p>
 							<p><b>Top Notes:</b> Ozone<br><b>Middle:</b> Eucalyptus, Plum, Sea Salt<br><b>Base:</b> Dark Musk, Sandalwood, Powder</p>
 							<p>8.5 oz (241 g)</p>
@@ -190,7 +190,7 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="inner-content">
-              <p>Copyright &copy; 2022 Scarlet Flame Candle Company, LLC - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+              <p>Copyright &copy; 2023 Scarlet Flame Candle Company, LLC - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
             </div>
           </div>
         </div>

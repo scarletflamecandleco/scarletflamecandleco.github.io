@@ -120,7 +120,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="DC3N2V59EE76G">
-							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 							</form>
 						  </div>
@@ -132,7 +132,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <div class="down-content">
 							<h4>Library</h4>
 							<h6>$15.00</h6>
-							<p>Dusty pages from leather-bound novels sitting on mahogany shelves.</p>
+							<p>Dusty pages from leather-bound novels sitting atop mahogany shelves.</p>
 							<p><b>Top Notes:</b> Teakwood<br><b>Middle:</b> Leather, Cedar<br><b>Base:</b> Dark Musk, Sandalwood, Patchouli</p>
 							<p>8.5 oz (241 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -156,7 +156,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="BMB5T2DKDDTFG">
-							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 							</form>
 						  </div>
@@ -172,7 +172,7 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="inner-content">
-              <p>Copyright &copy; 2022 Scarlet Flame Candle Company, LLC - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+              <p>Copyright &copy; 2023 Scarlet Flame Candle Company, LLC - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
             </div>
           </div>
         </div>
