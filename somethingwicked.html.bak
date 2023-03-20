@@ -266,25 +266,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 							</form>
 						  </div>
 						</div>
-					  </div>
-					<div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/rock_cakes.jpg" alt="">
-						  <div class="down-content">
-							<h4>Rock Cakes & Tea</h4>
-							<h6>$10.00</h6>
-							<p>The aroma of warm tea steeping beside fresh rock cakes.</p>
-							<p><b>Top Notes:</b> Lemon, Lime, Orange<br><b>Middle:</b> Rosewood<br><b>Base:</b> Vanilla, Tonka, Maple</p>
-							<p>8.5 oz (241 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="NP4LNHTUUZ5WN">
-							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-						  </div>
-						</div>
-					  </div> 					  
+					  </div>					  
          </div>
       </div>
     </div>

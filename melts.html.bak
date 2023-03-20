@@ -118,11 +118,11 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<p><b>Top Notes:</b> Bergamot, Grapefruit<br><b>Middle:</b> Orange, Green Leaves<br><b>Base:</b> Cedar</p>
 							<p>6 oz (170 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-								<input type="hidden" name="cmd" value="_s-xclick">
-								<input type="hidden" name="hosted_button_id" value="SXTAU88LVS8NS">
-								<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-								<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-								</form>
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="SXTAU88LVS8NS">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
 						  </div>
 						</div>
 					  </div>
@@ -156,24 +156,6 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="72X46786RFLNJ">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-						  </div>
-						</div>
-					  </div>
-					  <div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/cpMelt.jpg" alt="">
-						  <div class="down-content">
-							<h4>Cashmere Plum</h4>
-							<h6>$4.00</h6>
-							<p>Mixed cozy warmth of dark plum, sweet sugar, and earthy feesia.</p>
-							<p><b>Top Notes:</b> Citrus<br><b>Middle:</b> Black Cherry, Plum<br><b>Base:</b> Vanilla, Sugar, Amber</p>
-							<p>6 oz (170 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="FRRNANKMZ3UZA">
 							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 							</form>
@@ -286,6 +268,42 @@ https://templatemo.com/tm-546-sixteen-clothing
                     </div>
 					  <div class="col-md-4">
 						<div class="product-item">
+						  <img src="assets/images/ssMelt.jpg" alt="">
+						  <div class="down-content">
+							<h4>Sea Salt & Orchid</h4>
+							<h6>$4.00</h6>
+							<p>Soothingly fresh with salty highlights and soft floral notes.</p>
+							<p><b>Top Notes:</b> Ozone, Sea Salt<br><b>Middle:</b> Jasmine, Green Leaves, Lilies<br><b>Base:</b> Tonka Bean, Wood</p>
+							<p>6 oz (170 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="ZQDADJLLDM9XG">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>
+						<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/soMelt.jpg" alt="">
+						  <div class="down-content">
+							<h4>Smoked Oud</h4>
+							<h6>$4.00</h6>
+							<p>Complex blend of incense, smoke, oud, amber, and musk.</p>
+							<p><b>Top Notes:</b> Incense<br><b>Middle:</b> Smoke<br><b>Base:</b> Oud, Leather, Musk, Amber</p>
+							<p>6 oz (170 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="M6NV5J7AS783Q">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>
+					  <div class="col-md-4">
+						<div class="product-item">
 						  <img src="assets/images/healingMelt.jpg" alt="">
 						  <div class="down-content">
 							<h4>Tablets of Healing</h4>
@@ -332,42 +350,6 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="JCJLDXXE42FJE">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-						  </div>
-						</div>
-					  </div>
-					  <div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/ssMelt.jpg" alt="">
-						  <div class="down-content">
-							<h4>Sea Salt & Orchid</h4>
-							<h6>$4.00</h6>
-							<p>Soothingly fresh with salty highlights and soft floral notes.</p>
-							<p><b>Top Notes:</b> Ozone, Sea Salt<br><b>Middle:</b> Jasmine, Green Leaves, Lilies<br><b>Base:</b> Tonka Bean, Wood</p>
-							<p>6 oz (170 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="ZQDADJLLDM9XG">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-						  </div>
-						</div>
-					  </div>
-						<div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/soMelt.jpg" alt="">
-						  <div class="down-content">
-							<h4>Smoked Oud</h4>
-							<h6>$4.00</h6>
-							<p>Complex blend of incense, smoke, oud, amber, and musk.</p>
-							<p><b>Top Notes:</b> Incense<br><b>Middle:</b> Smoke<br><b>Base:</b> Oud, Leather, Musk, Amber</p>
-							<p>6 oz (170 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="M6NV5J7AS783Q">
 							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 							</form>
