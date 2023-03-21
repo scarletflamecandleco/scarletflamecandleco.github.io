@@ -113,7 +113,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/boMelt.jpg" alt="">
 						  <div class="down-content">
 							<h4>Blood Orange</h4>
-							<h6>$4.00</h6>
+							<h6>$7.00</h6>
 							<p>Fresh, full-bodied citrus orange with hints of bergamot and grapefruit.</p>
 							<p><b>Top Notes:</b> Bergamot, Grapefruit<br><b>Middle:</b> Orange, Green Leaves<br><b>Base:</b> Cedar</p>
 							<p>6 oz (170 g)</p>
@@ -131,7 +131,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/bcMelt.jpg" alt="">
 						  <div class="down-content">
 							<h4>Blueberry Cheesecake</h4>
-							<h6>$4.00</h6>
+							<h6>$7.00</h6>
 							<p>Blended aroma of sweet graham cracker crumbs and juicy blueberries.</p>
 							<p><b>Top Notes:</b> Cinnamon<br><b>Middle:</b> Blueberry<br><b>Base:</b> Vanilla, Graham Cracker</p>
 							<p>6 oz (170 g)</p>
@@ -149,7 +149,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/ctMelt.jpg" alt="">
 						  <div class="down-content">
 							<h4>Caribbean Teakwood</h4>
-							<h6>$4.00</h6>
+							<h6>$7.00</h6>
 							<p>Spicy top notes of ginger and spice infused with sandalwood and amber.</p>
 							<p><b>Top Notes:</b> Allspice, Leather<br><b>Middle:</b> Teakwood, Clove<br><b>Base:</b> Amber, Sandalwood</p>
 							<p>6 oz (170 g)</p>
@@ -167,7 +167,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                         <img src="assets/images/htMelt.jpg" alt="">
                         <div class="down-content">
                           <h4>High Tide</h4>
-                          <h6>$4.00</h6>
+                          <h6>$7.00</h6>
                           <p>Wrap the water, sand, and salt together in one clean, aromatic scent.<br><br><b>Top Notes:</b> Citrus, Ozone<br><b>Middle:</b> Jasmine, Sea Salt<br><b>Base:</b> Cedar, Powder, Light Musk</p>
 						  <p>8.5 oz (241 g)</p>
 						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -184,7 +184,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                         <img src="assets/images/lMelt.jpg" alt="">
                         <div class="down-content">
                           <h4>Library</h4>
-                          <h6>$4.00</h6>
+                          <h6>$7.00</h6>
                           <p>Dusty pages from leather-bound novels sitting on mahogany shelves.<br><br><b>Top Notes:</b> Teakwood<br><b>Middle:</b> Leather, Cedar<br><b>Base:</b> Dark Musk, Sandalwood, Patchouli</p>
 						  <p>6 oz (170 g)</p>
 						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -201,7 +201,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                         <img src="assets/images/msMelt.jpg" alt="">
                         <div class="down-content">
                           <h4>Mahogany Shea</h4>
-                          <h6>$4.00</h6>
+                          <h6>$7.00</h6>
                           <p>Calming notes of earthy woods combined with creamy shea.<br><br><b>Top Notes:</b> Almond<br><b>Middle:</b> Amber, Shea, Coconut<br><b>Base:</b> Sandalwood, Light Musk, Tonka</p>
 						  <p>6 oz (170 g)</p>
 						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -214,29 +214,11 @@ https://templatemo.com/tm-546-sixteen-clothing
                       </div>
                     </div>
 					  <div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/oaMelt.jpg" alt="">
-						  <div class="down-content">
-							<h4>Oakmoss & Amber</h4>
-							<h6>$4.00</h6>
-							<p>Grounded in oakmoss with hints of orange and lavender.</p>
-							<p><b>Top Notes:</b> Orange, Sage<br><b>Middle:</b> Lavender<br><b>Base:</b> Amber, Oakmoss</p>
-							<p>6 oz (170 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="SXCJEVFXUZD3N">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-						  </div>
-						</div>
-					  </div>
-					  <div class="col-md-4">
                       <div class="product-item">
                         <img src="assets/images/pnMelt.jpg" alt="">
                         <div class="down-content">
                           <h4>Peach Nectar</h4>
-                          <h6>$4.00</h6>
+                          <h6>$7.00</h6>
                           <p>Juicy, rich, sultry peach with a hint of tropics!</p>
 							<p><b>Top Notes:</b> Raspberry, Mandarin<br><b>Middle:</b> Plum, Peach, Violet<br><b>Base:</b> Sugar, Vanilla</p>
 						  <p>6 oz (170 g)</p>
@@ -254,7 +236,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                         <img src="assets/images/pMelt.jpg" alt="">
                         <div class="down-content">
                           <h4>Plumeria</h4>
-                          <h6>$4.00</h6>
+                          <h6>$7.00</h6>
                           <p>Blended bouquet of jasmine, gardenia, guava, and plumeria.<br><br><b>Top Notes:</b> Guava, Green Leaves<br><b>Middle:</b> Plumeria, Jasmine, Gardenia<br><b>Base:</b> Powder</p>
 						  <p>6 oz (170 g)</p>
 						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -271,7 +253,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/ssMelt.jpg" alt="">
 						  <div class="down-content">
 							<h4>Sea Salt & Orchid</h4>
-							<h6>$4.00</h6>
+							<h6>$7.00</h6>
 							<p>Soothingly fresh with salty highlights and soft floral notes.</p>
 							<p><b>Top Notes:</b> Ozone, Sea Salt<br><b>Middle:</b> Jasmine, Green Leaves, Lilies<br><b>Base:</b> Tonka Bean, Wood</p>
 							<p>6 oz (170 g)</p>
@@ -289,7 +271,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/soMelt.jpg" alt="">
 						  <div class="down-content">
 							<h4>Smoked Oud</h4>
-							<h6>$4.00</h6>
+							<h6>$7.00</h6>
 							<p>Complex blend of incense, smoke, oud, amber, and musk.</p>
 							<p><b>Top Notes:</b> Incense<br><b>Middle:</b> Smoke<br><b>Base:</b> Oud, Leather, Musk, Amber</p>
 							<p>6 oz (170 g)</p>
@@ -307,7 +289,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/healingMelt.jpg" alt="">
 						  <div class="down-content">
 							<h4>Tablets of Healing</h4>
-							<h6>$4.00</h6>
+							<h6>$7.00</h6>
 							<p>Restore health with individually colored tablets!</p>
 							<p><b>Top Notes:</b> Peppermint, Grapefruit<br><b>Middle:</b> Rhubarb, Pomegranate<br><b>Base:</b> Cedar, Rosemary</p>
 							<p>6 oz (170 g)</p>
@@ -325,7 +307,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/staminaMelt.jpg" alt="">
 						  <div class="down-content">
 							<h4>Tablets of Stamina</h4>
-							<h6>$4.00</h6>
+							<h6>$7.00</h6>
 							<p>Restore stamina with individually colored tablets!</p>
 							<p><b>Top Notes:</b> Peppermint, Eucalyptus<br><b>Middle:</b> Cedar, Clove<br><b>Base:</b> Powder, Patchouli</p>
 							<p>6 oz (170 g)</p>
@@ -343,7 +325,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/magickaMelt.jpg" alt="">
 						  <div class="down-content">
 							<h4>Tablets of Magicka</h4>
-							<h6>$4.00</h6>
+							<h6>$7.00</h6>
 							<p>Restore magicka with individually colored tablets!</p>
 							<p><b>Top Notes:</b> Lavender<br><b>Middle:</b> Chamomile, Sage, Rosemary<br><b>Base:</b> Cedar, Sandalwood</p>
 							<p>6 oz (170 g)</p>
