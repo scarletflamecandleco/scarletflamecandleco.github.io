@@ -119,42 +119,14 @@ https://templatemo.com/tm-546-sixteen-clothing
 				<br><b>Rock Cakes & Tea -</b> Visit the most welcoming half-giant around and relish the rock cakes & tea!<br>
 				<br><b>Chocolate Frogs -</b> Watch out! These decadent chocolate-y frogs only have one good jump in them!<br>
 				<br><b>Butter Brew -</b> Head down to the local pub and savor the deliciousness of Butter Brew!<br>
-				<br><b>The Sorting Candle -</b> Extraordinary candle that will fortell your house destiny! This candle starts white and changes color as it's burned to reveal your true house!</p>
 			</div>
           </div>
       </div>
     </div>
 	</div>
-	
-		<div class="latest-products">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-3">
-						<div class="product-item">
-						  <img src="assets/images/gryffindor.jpg" alt="">
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="product-item">
-						  <img src="assets/images/slytherin.jpg" alt="">
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="product-item">
-						  <img src="assets/images/hufflepuff.jpg" alt="">
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="product-item">
-						  <img src="assets/images/ravenclaw.jpg" alt="">
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
 
 
-<div class="latest-products">
+	<!-- <div class="latest-products">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -219,7 +191,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 					  </div> 					  
          </div>
       </div>
-    </div>
+    </div> -->
 	
 	
 	<div class="latest-products">
@@ -231,19 +203,37 @@ https://templatemo.com/tm-546-sixteen-clothing
 			  <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
+					  <div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/butter_brew.jpg" alt="">
+						  <div class="down-content">
+							<h4>Butter Brew</h4>
+							<h6>$15.00</h6>
+							<p>Rich, creamy butterscotch intertwines with oak barrel aged notes of bourbon whiskey.</p>
+							<p><b>Top Notes:</b> Butterscotch<br><b>Middle:</b> Bourbon, Whiskey<br><b>Base:</b> Vanilla</p>
+							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="23W9FY3DTQKAY">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>
                     <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/castle_grounds.jpg" alt="">
 						  <div class="down-content">
 							<h4>Castle Grounds</h4>
-							<h6>$10.00</h6>
+							<h6>$15.00</h6>
 							<p>Fresh and vibrant, this scent inspires cozy and reminiscent vibes.</p>
 							<p><b>Top Notes:</b> Bergamot<br><b>Middle:</b> Mahogany<br><b>Base:</b> Musk</p>
 							<p>8.5 oz (241 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="XVZYTFCEHH7RE">
-							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 							</form>
 						  </div>
@@ -254,14 +244,32 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <img src="assets/images/chocolate_frogs.jpg" alt="">
 						  <div class="down-content">
 							<h4>Chocolate Frogs</h4>
-							<h6>$10.00</h6>
+							<h6>$15.00</h6>
 							<p>Delicious, decadent, and simply irresistible creamy milk chocolate.</p>
 							<p><b>Top Notes:</b> Sugar<br><b>Middle:</b> Cocoa<br><b>Base:</b> Vanilla</p>
 							<p>8.5 oz (241 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="7827YSRPXFHC4">
-							<input type="image" src="assets/images/addtocart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="150" height="37.5">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>
+					<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/rock_cakes.jpg" alt="">
+						  <div class="down-content">
+							<h4>Rock Cakes & Tea</h4>
+							<h6>$15.00</h6>
+							<p>Delicious, decadent, and simply irresistible creamy milk chocolate.</p>
+							<p><b>Top Notes:</b> Lemon, Lime<br><b>Middle:</b> Rosewood<br><b>Base:</b> Vanilla, Maple</p>
+							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="NP4LNHTUUZ5WN">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 							</form>
 						  </div>
