@@ -108,6 +108,23 @@ https://templatemo.com/tm-546-sixteen-clothing
 			  <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
+		  		   <div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/banana_nut_bread.jpg" alt="">
+                        <div class="down-content">
+                          <h4>Banana Nut Bread</h4>
+                          <h6>$15.00</h6>
+                          <p>This scent combines all the cozy ingredients of cinnamon, sugar, nutmeg, and butter to invoke feelings of a freshly baked banana nut bread!<br><br><b>Top Notes:</b> Banana, Walnut<br><b>Middle:</b> Sugar, Nutmeg<br><b>Base:</b> Butter, Vanilla</p>
+						  <p>8.5 oz (241 g)</p>
+						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="68EZFMN37QPXJ">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+                        </div>
+                      </div>
+                    </div>
 					  <div class="col-md-4">
 						<div class="product-item">
 						  <img src="assets/images/blueberry_cheesecake.jpg" alt="">
@@ -116,6 +133,24 @@ https://templatemo.com/tm-546-sixteen-clothing
 							<h6>$15.00</h6>
 							<p>Blended aroma of sweet graham cracker crumbs and juicy blueberries.</p>
 							<p><b>Top Notes:</b> Cinnamon<br><b>Middle:</b> Blueberry<br><b>Base:</b> Vanilla, Graham Cracker</p>
+							<p>8.5 oz (241 g)</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="FKZPASLWHA2N2">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						  </div>
+						</div>
+					  </div>
+					<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/blueberry_pancakes.jpg" alt="">
+						  <div class="down-content">
+							<h4>Blueberry Pancakes</h4>
+							<h6>$15.00</h6>
+							<p>Juicy blueberries with a base of sugar and vanilla are rounded off with notes of cinnamon and almond. Perfect for Sunday morning brunch!</p>
+							<p><b>Top Notes:</b> Blueberry<br><b>Middle:</b> Cinnamon, Almond<br><b>Base:</b> Sugar, Vanilla</p>
 							<p>8.5 oz (241 g)</p>
 							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
