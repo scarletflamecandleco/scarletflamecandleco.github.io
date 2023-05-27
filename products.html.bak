@@ -47,7 +47,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 <div class="notif">
 		<div class="banner__content">
 			<div class="banner__text">
-				<h6>Free shipping on orders over $50!</h6>
+				<h6>Orders that require shipping are on hiatus until September 1st, 2023! Thank you for your understanding!</h6>
 			</div>
 		</div>
 	</div>
@@ -114,333 +114,519 @@ https://templatemo.com/tm-546-sixteen-clothing
                   <h2>All Products</h2>
             </div>
           </div>
+					<div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/Antique Books.png" alt="">
+                        <div class="down-content">
+                          <h4>Antique Books</h4>
+                          <h6>$8 - $22</h6>
+                          <p>Inhale dusty pages from leather-bound novels sitting atop mahogany shelves.<br><br><b>Top Notes:</b> Teakwood<br><b>Middle:</b> Leather, Cedar<br><b>Base:</b> Dark Musk, Sandalwood, Patchouli</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <p>**Formerly known as Library**</p>
+							<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="PC8ZUKXX3PQKY">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form> -->
+                        </div>
+                      </div>
+                    </div>
 		            <div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/banana_nut_bread.jpg" alt="">
+                        <img src="assets/images/Banana Nut Bread.png" alt="">
                         <div class="down-content">
                           <h4>Banana Nut Bread</h4>
-                          <h6>$15.00</h6>
+                          <h6>$8 - $22</h6>
                           <p>This scent combines all the cozy ingredients of cinnamon, sugar, nutmeg, and butter to invoke feelings of a freshly baked banana nut bread!<br><br><b>Top Notes:</b> Banana, Walnut<br><b>Middle:</b> Sugar, Nutmeg<br><b>Base:</b> Butter, Vanilla</p>
-						  <p>8.5 oz (241 g)</p>
-						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="68EZFMN37QPXJ">
+							<input type="hidden" name="hosted_button_id" value="QVBYUCPZWYNGG">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
 							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
+							</form> -->
                         </div>
                       </div>
                     </div>
                     <div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/black_coral.jpg" alt="">
-                        <div class="down-content">
-                          <h4>Black Coral & Moss</h4>
-                          <h6>$15.00</h6>
-                          <p>Mossy, marine scent reminiscent of high-end cologne.<br><br><b>Top Notes:</b> Camphor, Marine<br><b>Middle:</b> Bamboo, Lavender<br><b>Base:</b> Dark Musk, Amber</p>
-						  <p>8.5 oz (241 g)</p>
-						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="FR92L8EU85Z5J">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4">
-                      <div class="product-item">
-                        <img src="assets/images/blood_orange.jpg" alt="">
+                        <img src="assets/images/Blood Orange.png" alt="">
                         <div class="down-content">
                           <h4>Blood Orange</h4>
-                          <h6>$15.00</h6>
+                          <h6>$8 - $22</h6>
                           <p>Full-bodied, fresh citrus orange with hints of bergamot and grapefruit.<br><br><b>Top Notes:</b> Bergamot, Grapefruit<br><b>Middle:</b> Orange, Green Leaves<br><b>Base:</b> Cedar</p>
-						  <p>8.5 oz (241 g)</p>
-						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="AFZRYK6T49SNC">
+							<input type="hidden" name="hosted_button_id" value="4ZGUNCPYE7H5S">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
 							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
+							</form> -->
                         </div>
                       </div>
                     </div>
                     <div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/blueberry_cheesecake.jpg" alt="">
+                        <img src="assets/images/Blueberry Cheesecake.png" alt="">
                         <div class="down-content">
                           <h4>Blueberry Cheesecake</h4>
-                          <h6>$15.00</h6>
+                          <h6>$8 - $22</h6>
                           <p>Blended aroma of sweet graham cracker crumbs and juicy blueberries.<br><br><b>Top Notes:</b> Cinnamon<br><b>Middle:</b> Blueberry<br><b>Base:</b> Vanilla, Graham Cracker</p>
-						  <p>8.5 oz (241 g)</p>
-						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <p>**Will be discontinued once gone**</p>
+						  <!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="FKZPASLWHA2N2">
+							<input type="hidden" name="hosted_button_id" value="3NT3XJCKN6EWG">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
 							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
+							</form> -->
                         </div>
                       </div>
                     </div>
 					<div class="col-md-4">
 						<div class="product-item">
-						  <img src="assets/images/blueberry_pancakes.jpg" alt="">
+						  <img src="assets/images/Blueberry Pancakes.png" alt="">
 						  <div class="down-content">
 							<h4>Blueberry Pancakes</h4>
-							<h6>$15.00</h6>
+							<h6>$8 - $22</h6>
 							<p>Juicy blueberries with a base of sugar and vanilla are rounded off with notes of cinnamon and almond. Perfect for Sunday morning brunch!</p>
 							<p><b>Top Notes:</b> Blueberry<br><b>Middle:</b> Cinnamon, Almond<br><b>Base:</b> Sugar, Vanilla</p>
-							<p>8.5 oz (241 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<p>4oz (113g) - 14oz (396g)</p>
+							<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="6APUJLZUF53BL">
+							<input type="hidden" name="hosted_button_id" value="CCQ75CR482M56">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
 							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
+							</form> -->
+						  </div>
+						</div>
+					  </div>
+					<div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/Cedar & Coconut.png" alt="">
+                        <div class="down-content">
+                          <h4>Cedar & Coconut</h4>
+                          <h6>$8 - $22</h6>
+                          <p>Calming notes of earthy woods combined with creamy shea.<br><br><b>Top Notes:</b> Almond<br><b>Middle:</b> Amber, Shea, Coconut<br><b>Base:</b> Sandalwood, Light Musk, Tonka</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <p>**Formerly known as Mahogany Shea**</p>
+						  <!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="A9T8XSMTDK2YJ">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form> -->
+                        </div>
+                      </div>
+                    </div>
+					 <div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/Coastal Cliffs.png" alt="">
+                        <div class="down-content">
+                          <h4>Coastal Cliffs</h4>
+                          <h6>$8 - $22</h6>
+                          <p>Wrap the water, sand, and salt together in one clean, aromatic scent.<br><br><b>Top Notes:</b> Citrus, Ozone<br><b>Middle:</b> Jasmine, Sea Salt<br><b>Base:</b> Cedar, Powder, Light Musk</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <p>**Formerly known as High Tide**
+						 <!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="ZNEKN9FDE9LZL">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form> -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/Dark Plum.png" alt="">
+						  <div class="down-content">
+							<h4>Dark Plum</h4>
+							<h6>$8 - $22</h6>
+							<p>Seductively aromatic with dark musk and dark plum heart.</p>
+							<p><b>Top Notes:</b> Citrus<br><b>Middle:</b> Black Cherry, Plum<br><b>Base:</b> Amber, Light Musk, Sugar</p>
+							<p>4oz (113g) - 14oz (396g)</p>
+							<p>**Formerly known as Cashmere Plum**
+							<!--<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="MW69T7NXTRRAG">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>-->
+						  </div>
+						</div>
+					  </div>
+					<div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/Fireside Embers.png" alt="">
+                        <div class="down-content">
+                          <h4>Fireside Embers</h4>
+                          <h6>$8 - $22</h6>
+                          <p>Wonderfully blended aromas featuring roasted coffee and baked pastries to accompany a good book. Grab a drink, take a seat, and relax with this refreshing scent.<br><br><b>Top Notes:</b> Coffee, Butter<br><b>Middle:</b> Tonka<br><b>Base:</b> Vanilla, Maple</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <p>**Formerly known as Smoked Oud**</p>
+						<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+						<input type="hidden" name="cmd" value="_s-xclick">
+						<input type="hidden" name="hosted_button_id" value="WZ9FED8X9E6MQ">
+						<table>
+						<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+							<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+							<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+							<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+						</select> </td></tr>
+						</table>
+						<input type="hidden" name="currency_code" value="USD">
+						<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						</form> -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/French Lilac.png" alt="">
+                        <div class="down-content">
+                          <h4>French Lilac</h4>
+                          <h6>$8 - $22</h6>
+                          <p>Experience the calming aroma of a field of lilacs in full bloom.<br><br><b>Top Notes:</b> Green Leaves<br><b>Middle:</b> Lilac, Honeysuckle<br><b>Base:</b> Amyris, Powder</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="PAGKYD3YMLRJG">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form> -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/Lavender Fields.png" alt="">
+                        <div class="down-content">
+                          <h4>Lavender Fields</h4>
+                          <h6>$8 - $22</h6>
+                          <p>A classic flower known for its calming properties, lavender is timeless. Beautiful notes of citrus, camphor, and eucalyptus highlight this traditional fragrance.<br><br><b>Top Notes:</b> Bergamot<br><b>Middle:</b> Lavender, Sage<br><b>Base:</b> Camphor, Cedar</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+						<input type="hidden" name="cmd" value="_s-xclick">
+						<input type="hidden" name="hosted_button_id" value="5RHRU83DNRJL4">
+						<table>
+						<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+							<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+							<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+							<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+						</select> </td></tr>
+						</table>
+						<input type="hidden" name="currency_code" value="USD">
+						<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						</form> -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/Lemon Pound Cake.png" alt="">
+                        <div class="down-content">
+                          <h4>Lemon Pound Cake</h4>
+                          <h6>$8 - $22</h6>
+                          <p>Juicy lemon combined with a freshly baked gourmet cake.<br><br><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Butter<br><b>Base:</b> Sugar, Vanilla, Cake</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+						<input type="hidden" name="cmd" value="_s-xclick">
+						<input type="hidden" name="hosted_button_id" value="NS3NW3XP5Q8P2">
+						<table>
+						<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+							<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+							<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+							<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+						</select> </td></tr>
+						</table>
+						<input type="hidden" name="currency_code" value="USD">
+						<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						</form> -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/Lemon Zest.png" alt="">
+                        <div class="down-content">
+                          <h4>Lemon Zest</h4>
+                          <h6>$8 - $22</h6>
+                          <p>An enticing blend of sugar and lemon to make your mouth water. This scent is vibrant and fruity to brighten up your room!<br><br><b>Top Notes:</b> Citrus<br><b>Middle:</b> Light Floral<br><b>Base:</b> Sugar, Vanilla</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+						<input type="hidden" name="cmd" value="_s-xclick">
+						<input type="hidden" name="hosted_button_id" value="LBLWJVWV7P5UL">
+						<table>
+						<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+							<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+							<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+							<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+						</select> </td></tr>
+						</table>
+						<input type="hidden" name="currency_code" value="USD">
+						<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						</form> -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/Mossy Caverns.png" alt="">
+                        <div class="down-content">
+                          <h4>Mossy Caverns</h4>
+                          <h6>$8 - $22</h6>
+                          <p>Mossy, marine scent reminiscent of high-end cologne.<br><br><b>Top Notes:</b> Camphor, Marine<br><b>Middle:</b> Bamboo, Lavender<br><b>Base:</b> Dark Musk, Amber</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <p>**Formerly known as Black Coral & Moss**</p>
+						  <!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="FEEXZ874UWMYG">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form> -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/Peach Nectar.png" alt="">
+						  <div class="down-content">
+							<h4>Peach Nectar</h4>
+							<h6>$8 - $22</h6>
+							<p>Juicy, rich, sultry peach with a hint of tropics!</p>
+							<p><b>Top Notes:</b> Raspberry, Mandarin<br><b>Middle:</b> Plum, Peach, Violet<br><b>Base:</b> Sugar, Vanilla</p>
+							<p>4oz (113g) - 14oz (396g)</p>
+							<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="XB8UTXMC4YMM4">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form> -->
+						  </div>
+						</div>
+					  </div>
+					<div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/Plumeria Blossom.png" alt="">
+                        <div class="down-content">
+                          <h4>Plumeria Blossom</h4>
+                          <h6>$8 - $22</h6>
+                          <p>Blended bouquet of jasmine, gardenia, guava, and plumeria.<br><br><b>Top Notes:</b> Guava, Green Leaves<br><b>Middle:</b> Plumeria, Jasmine, Gardenia<br><b>Base:</b> Powder</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="SHDXN2M4UUUDE">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form> -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/Roasted Coffee.png" alt="">
+                        <div class="down-content">
+                          <h4>Roasted Coffee</h4>
+                          <h6>$8 - $22</h6>
+                          <p>Wonderfully blended aromas featuring roasted coffee and baked pastries to accompany a good book. Grab a drink, take a seat, and relax with this refreshing scent.<br><br><b>Top Notes:</b> Coffee, Butter<br><b>Middle:</b> Tonka<br><b>Base:</b> Vanilla, Maple</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+						<input type="hidden" name="cmd" value="_s-xclick">
+						<input type="hidden" name="hosted_button_id" value="AJ4K7THNY24ZA">
+						<table>
+						<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+							<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+							<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+							<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+						</select> </td></tr>
+						</table>
+						<input type="hidden" name="currency_code" value="USD">
+						<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						</form> -->
+                        </div>
+                      </div>
+                    </div>
+					<div class="col-md-4">
+						<div class="product-item">
+						  <img src="assets/images/Strawberry Shortcake.png" alt="">
+						  <div class="down-content">
+							<h4>Strawberry Shortcake</h4>
+							<h6>$8 - $22</h6>
+							<p>Mouthwatering strawberry resting on a rich base of vanilla, cream, & sugar.</p>
+							<p><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Butter<br><b>Base:</b> Sugar, Vanilla, Cake</p>
+							<p>4oz (113g) - 14oz (396g)</p>
+							<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="MDCAQNRS6YHH4">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form> -->
 						  </div>
 						</div>
 					  </div>
                     <div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/caribbean_teakwood.jpg" alt="">
+                        <img src="assets/images/Tobacco & Teakwood.png" alt="">
                         <div class="down-content">
-                          <h4>Caribbean Teakwood</h4>
-                          <h6>$15.00</h6>
+                          <h4>Tobacco & Teakwood</h4>
+                          <h6>$8 - $22</h6>
                           <p>Spicy top notes of ginger and spice infused with sandalwood and amber.<br><br><b>Top Notes:</b> Allspice, Leather<br><b>Middle:</b> Teakwood, Clove<br><b>Base:</b> Amber, Sandalwood</p>
-						  <p>8.5 oz (241 g)</p>
-						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <p>**Formerly known as Caribbean Teakwood**</p>
+						  <!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="DC3N2V59EE76G">
+							<input type="hidden" name="hosted_button_id" value="GFGCLNHRT3Y2L">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
 							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-                        </div>
-                      </div>
-                    </div>
-					<div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/cashmere_plum.jpg" alt="">
-						  <div class="down-content">
-							<h4>Cashmere Plum</h4>
-							<h6>$15.00</h6>
-							<p>Seductively aromatic with dark musk and dark plum heart.</p>
-							<p><b>Top Notes:</b> Citrus<br><b>Middle:</b> Black Cherry, Plum<br><b>Base:</b> Amber, Light Musk, Sugar</p>
-							<p>8.5 oz (241 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="D5XNVAB548U2L">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-						  </div>
-						</div>
-					  </div>
-					<div class="col-md-4">
-                      <div class="product-item">
-                        <img src="assets/images/french_lilac.jpg" alt="">
-                        <div class="down-content">
-                          <h4>French Lilac</h4>
-                          <h6>$15.00</h6>
-                          <p>Experience the calming aroma of a field of lilacs in full bloom.<br><br><b>Top Notes:</b> Green Leaves<br><b>Middle:</b> Lilac, Honeysuckle<br><b>Base:</b> Amyris, Powder</p>
-						  <p>8.5 oz (241 g)</p>
-						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="PXQMD6CSUG42U">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-                        </div>
-                      </div>
-                    </div>
-					<div class="col-md-4">
-                      <div class="product-item">
-                        <img src="assets/images/high_tide.jpg" alt="">
-                        <div class="down-content">
-                          <h4>High Tide</h4>
-                          <h6>$15.00</h6>
-                          <p>Wrap the water, sand, and salt together in one clean, aromatic scent.<br><br><b>Top Notes:</b> Citrus, Ozone<br><b>Middle:</b> Jasmine, Sea Salt<br><b>Base:</b> Cedar, Powder, Light Musk</p>
-						  <p>8.5 oz (241 g)</p>
-						 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="UQDC5BAFW2QRU">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-                        </div>
-                      </div>
-                    </div>
-					<div class="col-md-4">
-                      <div class="product-item">
-                        <img src="assets/images/lemon_pound_cake.jpg" alt="">
-                        <div class="down-content">
-                          <h4>Lemon Pound Cake</h4>
-                          <h6>$15.00</h6>
-                          <p>Juicy lemon combined with a freshly baked gourmet cake.<br><br><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Butter<br><b>Base:</b> Sugar, Vanilla, Cake</p>
-						  <p>8.5 oz (241 g)</p>
-						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="MFYXP9L32SN9S">
-						<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-						</form>
-                        </div>
-                      </div>
-                    </div>
-					<div class="col-md-4">
-                      <div class="product-item">
-                        <img src="assets/images/lemon_zest.jpg" alt="">
-                        <div class="down-content">
-                          <h4>Lemon Zest</h4>
-                          <h6>$15.00</h6>
-                          <p>An enticing blend of sugar and lemon to make your mouth water. This scent is vibrant and fruity to brighten up your room!<br><br><b>Top Notes:</b> Citrus<br><b>Middle:</b> Light Floral<br><b>Base:</b> Sugar, Vanilla</p>
-						  <p>8.5 oz (241 g)</p>
-						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="UJXTAJYKUR7NL">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-                        </div>
-                      </div>
-                    </div>
-					<div class="col-md-4">
-                      <div class="product-item">
-                        <img src="assets/images/library.jpg" alt="">
-                        <div class="down-content">
-                          <h4>Library</h4>
-                          <h6>$15.00</h6>
-                          <p>Dusty pages from leather-bound novels sitting atop mahogany shelves.<br><br><b>Top Notes:</b> Teakwood<br><b>Middle:</b> Leather, Cedar<br><b>Base:</b> Dark Musk, Sandalwood, Patchouli</p>
-						  <p>8.5 oz (241 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="C97SVRETL4E9E">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-                        </div>
-                      </div>
-                    </div>
-					<div class="col-md-4">
-                      <div class="product-item">
-                        <img src="assets/images/mahogany_shea.jpg" alt="">
-                        <div class="down-content">
-                          <h4>Mahogany Shea</h4>
-                          <h6>$15.00</h6>
-                          <p>Calming notes of earthy woods combined with creamy shea.<br><br><b>Top Notes:</b> Almond<br><b>Middle:</b> Amber, Shea, Coconut<br><b>Base:</b> Sandalwood, Light Musk, Tonka</p>
-						  <p>8.5 oz (241 g)</p>
-						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="MVQYRX48GWDMG">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-                        </div>
-                      </div>
-                    </div>
-					<div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/peach_nectar.jpg" alt="">
-						  <div class="down-content">
-							<h4>Peach Nectar</h4>
-							<h6>$15.00</h6>
-							<p>Juicy, rich, sultry peach with a hint of tropics!</p>
-							<p><b>Top Notes:</b> Raspberry, Mandarin<br><b>Middle:</b> Plum, Peach, Violet<br><b>Base:</b> Sugar, Vanilla</p>
-							<p>8.5 oz (241 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="CME6G9KU5FXZJ">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-						  </div>
-						</div>
-					  </div>
-					<div class="col-md-4">
-                      <div class="product-item">
-                        <img src="assets/images/plumeria.jpg" alt="">
-                        <div class="down-content">
-                          <h4>Plumeria</h4>
-                          <h6>$15.00</h6>
-                          <p>Blended bouquet of jasmine, gardenia, guava, and plumeria.<br><br><b>Top Notes:</b> Guava, Green Leaves<br><b>Middle:</b> Plumeria, Jasmine, Gardenia<br><b>Base:</b> Powder</p>
-						  <p>8.5 oz (241 g)</p>
-						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="AE5NJEPVQBA3G">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-                        </div>
-                      </div>
-                    </div>
-					<div class="col-md-4">
-                      <div class="product-item">
-                        <img src="assets/images/roasted_coffee.jpg" alt="">
-                        <div class="down-content">
-                          <h4>Roasted Coffee</h4>
-                          <h6>$15.00</h6>
-                          <p>Wonderfully blended aromas featuring roasted coffee and baked pastries to accompany a good book. Grab a drink, take a seat, and relax with this refreshing scent.<br><br><b>Top Notes:</b> Coffee, Butter<br><b>Middle:</b> Tonka<br><b>Base:</b> Vanilla, Maple</p>
-						  <p>8.5 oz (241 g)</p>
-						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="9HT9PGJTWQJPG">
-						<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-						</form>
-                        </div>
-                      </div>
-                    </div>
-					<div class="col-md-4">
-                      <div class="product-item">
-                        <img src="assets/images/sea_salt.jpg" alt="">
-                        <div class="down-content">
-                          <h4>Sea Salt & Orchid</h4>
-                          <h6>$15.00</h6>
-                          <p>Crisply fresh with salty highlights and soft floral notes.<br><br><b>Top Notes:</b> Ozone, Sea Salt<br><b>Middle:</b> Jasmine, Green Leaves, Lilies<br><b>Base:</b> Tonka Bean, Wood</p>
-						  <p>8.5 oz (241 g)</p>
-						  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="85UKEFPWEQHX6">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-                        </div>
-                      </div>
-                    </div>
-					<div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/strawberry_shortcake.jpg" alt="">
-						  <div class="down-content">
-							<h4>Strawberry Shortcake</h4>
-							<h6>$15.00</h6>
-							<p>Mouthwatering strawberry resting on a rich base of vanilla, cream, & sugar.</p>
-							<p><b>Top Notes:</b> Lemon Peel<br><b>Middle:</b> Butter<br><b>Base:</b> Sugar, Vanilla, Cake</p>
-							<p>8.5 oz (241 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="BTK3XYDN2CRXG">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-						  </div>
-						</div>
-					  </div>
-					  					<div class="col-md-4">
-                      <div class="product-item">
-                        <img src="assets/images/smoked_oud.jpg" alt="">
-                        <div class="down-content">
-                          <h4>Smoked Oud</h4>
-                          <h6>$15.00</h6>
-                          <p>Wonderfully blended aromas featuring roasted coffee and baked pastries to accompany a good book. Grab a drink, take a seat, and relax with this refreshing scent.<br><br><b>Top Notes:</b> Coffee, Butter<br><b>Middle:</b> Tonka<br><b>Base:</b> Vanilla, Maple</p>
-						  <p>8.5 oz (241 g)</p>
-						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="BMB5T2DKDDTFG">
-						<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-						</form>
+							</form> -->
                         </div>
                       </div>
                     </div>	
+					<div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/White Orchid.png" alt="">
+                        <div class="down-content">
+                          <h4>White Orchid</h4>
+                          <h6>$8 - $22</h6>
+                          <p>Crisply fresh with salty highlights and soft floral notes.<br><br><b>Top Notes:</b> Ozone, Sea Salt<br><b>Middle:</b> Jasmine, Green Leaves, Lilies<br><b>Base:</b> Tonka Bean, Wood</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <p>**Formerly known as Sea Salt & Orchid**</p>
+						  <!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="DCDJKNAUX3BM8">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form> -->
+                        </div>
+                      </div>
+                    </div>					
 					
 					
 		<!-- <div class="col-md-12">
