@@ -142,7 +142,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                     </div>
 		            <div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/Banana Nut Bread.png" alt="">
+                        <img src="assets/images/Banana Nut Bread.jpg" alt="">
                         <div class="down-content">
                           <h4>Banana Nut Bread</h4>
                           <h6>$8 - $22</h6>
@@ -167,7 +167,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                     </div>
                     <div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/Blood Orange.png" alt="">
+                        <img src="assets/images/Blood Orange.jpg" alt="">
                         <div class="down-content">
                           <h4>Blood Orange</h4>
                           <h6>$8 - $22</h6>
@@ -218,7 +218,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                     </div>
 					<div class="col-md-4">
 						<div class="product-item">
-						  <img src="assets/images/Blueberry Pancakes.png" alt="">
+						  <img src="assets/images/Blueberry Pancakes.jpg" alt="">
 						  <div class="down-content">
 							<h4>Blueberry Pancakes</h4>
 							<h6>$8 - $22</h6>
@@ -244,7 +244,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 					  </div>
 					<div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/Cedar & Coconut.png" alt="">
+                        <img src="assets/images/Cedar & Coconut.jpg" alt="">
                         <div class="down-content">
                           <h4>Cedar & Coconut</h4>
                           <h6>$8 - $22</h6>
@@ -270,7 +270,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                     </div>
 					 <div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/Coastal Cliffs.png" alt="">
+                        <img src="assets/images/Coastal Cliffs.jpg" alt="">
                         <div class="down-content">
                           <h4>Coastal Cliffs</h4>
                           <h6>$8 - $22</h6>
@@ -296,7 +296,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                     </div>
 					<div class="col-md-4">
 						<div class="product-item">
-						  <img src="assets/images/Dark Plum.png" alt="">
+						  <img src="assets/images/Dark Plum.jpg" alt="">
 						  <div class="down-content">
 							<h4>Dark Plum</h4>
 							<h6>$8 - $22</h6>
@@ -323,7 +323,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 					  </div>
 					<div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/Fireside Embers.png" alt="">
+                        <img src="assets/images/Fireside Embers.jpg" alt="">
                         <div class="down-content">
                           <h4>Fireside Embers</h4>
                           <h6>$8 - $22</h6>
@@ -374,7 +374,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                     </div>
 					<div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/Lavender Fields.png" alt="">
+                        <img src="assets/images/Lavender Fields.jpg" alt="">
                         <div class="down-content">
                           <h4>Lavender Fields</h4>
                           <h6>$8 - $22</h6>
@@ -399,7 +399,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                     </div>
 					<div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/Lemon Pound Cake.png" alt="">
+                        <img src="assets/images/Lemon Pound Cake.jpg" alt="">
                         <div class="down-content">
                           <h4>Lemon Pound Cake</h4>
                           <h6>$8 - $22</h6>
@@ -424,7 +424,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                     </div>
 					<div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/Lemon Zest.png" alt="">
+                        <img src="assets/images/Lemon Zest.jpg" alt="">
                         <div class="down-content">
                           <h4>Lemon Zest</h4>
                           <h6>$8 - $22</h6>
@@ -501,7 +501,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 					  </div>
 					<div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/Plumeria Blossom.png" alt="">
+                        <img src="assets/images/Plumeria Blossom.jpg" alt="">
                         <div class="down-content">
                           <h4>Plumeria Blossom</h4>
                           <h6>$8 - $22</h6>
@@ -526,7 +526,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                     </div>
 					<div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/Roasted Coffee.png" alt="">
+                        <img src="assets/images/Roasted Coffee.jpg" alt="">
                         <div class="down-content">
                           <h4>Roasted Coffee</h4>
                           <h6>$8 - $22</h6>
@@ -559,7 +559,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 						  <p>4oz (113g) - 14oz (396g)</p>
 						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="AJ4K7THNY24ZA">
+						<input type="hidden" name="hosted_button_id" value="B2K9GJW6YKKYC">
 						<table>
 						<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
 							<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>

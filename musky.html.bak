@@ -111,9 +111,35 @@ https://templatemo.com/tm-546-sixteen-clothing
 			  <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
-		  					<div class="col-md-4">
+					<div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/Fireside Embers.png" alt="">
+                        <img src="assets/images/Antique Books.jpg" alt="">
+                        <div class="down-content">
+                          <h4>Antique Books</h4>
+                          <h6>$8 - $22</h6>
+                          <p>Inhale dusty pages from leather-bound novels sitting atop mahogany shelves.<br><br><b>Top Notes:</b> Teakwood<br><b>Middle:</b> Leather, Cedar<br><b>Base:</b> Dark Musk, Sandalwood, Patchouli</p>
+						  <p>4oz (113g) - 14oz (396g)</p>
+						  <p>**Formerly known as Library**</p>
+							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="PC8ZUKXX3PQKY">
+							<table>
+							<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
+								<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
+								<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
+								<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
+							</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="USD">
+							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+                        </div>
+                      </div>
+                    </div>
+		  			<div class="col-md-4">
+                      <div class="product-item">
+                        <img src="assets/images/Fireside Embers.jpg" alt="">
                         <div class="down-content">
                           <h4>Fireside Embers</h4>
                           <h6>$8 - $22</h6>
@@ -137,24 +163,6 @@ https://templatemo.com/tm-546-sixteen-clothing
                         </div>
                       </div>
                     </div>
-					  <div class="col-md-4">
-						<div class="product-item">
-						  <img src="assets/images/library.jpg" alt="">
-						  <div class="down-content">
-							<h4>Library</h4>
-							<h6>$15.00</h6>
-							<p>Dusty pages from leather-bound novels sitting atop mahogany shelves.</p>
-							<p><b>Top Notes:</b> Teakwood<br><b>Middle:</b> Leather, Cedar<br><b>Base:</b> Dark Musk, Sandalwood, Patchouli</p>
-							<p>8.5 oz (241 g)</p>
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="C97SVRETL4E9E">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							</form>
-						  </div>
-						</div>
-					  </div>
 					<div class="col-md-4">
                       <div class="product-item">
                         <img src="assets/images/Roasted Coffee.png" alt="">
