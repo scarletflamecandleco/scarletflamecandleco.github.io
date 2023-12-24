@@ -146,26 +146,41 @@ https://templatemo.com/tm-546-sixteen-clothing
                           <p>Wonderfully blended aromas featuring roasted coffee and baked pastries to accompany a good book. Grab a drink, take a seat, and relax with this refreshing scent.<br><br><b>Top Notes:</b> Coffee, Butter<br><b>Middle:</b> Tonka<br><b>Base:</b> Vanilla, Maple</p>
 						  <p>4oz (113g) - 14oz (396g)</p>
 						  <p>**Formerly known as Smoked Oud**</p>
-						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="WZ9FED8X9E6MQ">
-						<table>
-						<tr><td><input type="hidden" name="on0" value="Candle Size">Candle Size</td></tr><tr><td><select name="os0">
-							<option value="4oz Gold Tin">4oz Gold Tin $8.00 USD</option>
-							<option value="7oz Amber Jar">7oz Amber Jar $12.00 USD</option>
-							<option value="14oz Amber Jar">14oz Amber Jar $22.00 USD</option>
-						</select> </td></tr>
-						</table>
-						<input type="hidden" name="currency_code" value="USD">
-						<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+						  <input type="hidden" name="cmd" value="_s-xclick" />
+						  <input type="hidden" name="hosted_button_id" value="WZ9FED8X9E6MQ" />
+						  <table>
+							<tr>
+							  <td>
+								<input type="hidden" name="on0" value="Candle Size"/>
+								Candle Size
+							  </td>
+							</tr>
+							<tr>
+							  <td>
+								<select name="os0">
+								  <option value="4oz Gold Tin">
+									4oz Gold Tin $8.00 USD
+								  </option>
+								  <option value="7oz Amber Jar">
+									7oz Amber Jar $12.00 USD
+								  </option>
+								  <option value="14oz Amber Jar">
+									14oz Amber Jar $22.00 USD
+								  </option>
+								</select>
+							  </td>
+							</tr>
+						  </table>
+						  <input type="hidden" name="currency_code" value="USD" />
+						  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Add to Cart" />
 						</form>
                         </div>
                       </div>
                     </div>
 					<div class="col-md-4">
                       <div class="product-item">
-                        <img src="assets/images/Roasted Coffee.png" alt="">
+                        <img src="assets/images/Roasted Coffee.jpg" alt="">
                         <div class="down-content">
                           <h4>Roasted Coffee</h4>
                           <h6>$8 - $22</h6>
